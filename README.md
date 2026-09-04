@@ -45,6 +45,9 @@ MAINMAIN fandoms:
   
   Haikyuu
 
+
+  killer Chat
+
   
   Wind Breaker
 
