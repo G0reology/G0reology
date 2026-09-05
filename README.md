@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/9080f704-69c6-4bdd-8912-bce7c8403485" 
-alt="description" width="900" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=C0C0C0&label=⏾&style=upper" alt="Vamps Counter" />
