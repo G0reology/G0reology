@@ -21,7 +21,26 @@
 alt="description" width="900" />
 </p>
 
-[WIP]
+$$\color{#AAB4BF} \text{⤷ ゛ call me ::Cael ' Fayvel ' pierce ' Lucard  (multinameuser!)}$$
+$$\color{#C0D8E0} \text{˖  ⊹  Gamer .  ࣪࣪Afrobrit . 17. ! . Artist[comms closed/taking a break]   ౨ৎ˚₊}$$
+
+$$\color{#C0E0E0} \text{⋆.˚ C*H freely idm unless on dni, Mostly offtab/disconnect alot .  ⋆‧°𓏲ּ𝄢}$$
+
+
+$$\color{#DDFFFF}{\text{We are a system and most alters are on iwecuf. DNF under 15 .}}$$
+
+
+
+
+
+
+
+
+
+
+$$\color{#C0D8E0} \text{⤷ ゛ Hypershring yume of multiple including Ronin, maeno and tsugino!}$$
+$$\color{#DDFFFF} \text{˖   Some  ࣪࣪My kins + Comf characters     ౨ৎ˚₊}$$
+
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/eba8731e-9ca3-43be-bf74-05aab1c973e3"
