@@ -40,82 +40,40 @@ So yeah i experiment with my styles, but NONE of em have references besides my s
 'your style changes so'-???
 
 
-MAINMAIN fandoms:
-
-  
-  Haikyuu
-
-
-  killer Chat
-
-  
-  Wind Breaker
-
-  
-  Tokyo Revengers
-
-  
-  Demon slayer
-
-  
-  BSD
-
-  
-  Phighting
-
-
-  MCYT
-
-  
-  Jujuts kaisen
-
-  
-  Honkai star rail
-
-  
-  Genshin impact
-
-  
-  Forsaken[not as active]
-
-  
-  Death of die [specifically Wares]
-
-  
-  Hellsing.
-
   SYS most alters usually act like me so its hard to tell unless you ask. [they'll be less active on ponytown. currently working on a pronouns page for em' ]
 
 
 ALSO my memory is bad, if we don't interact for a while i forget who you are
 thats it? check my straw kk?? 
 
+
 </details>
 
 <details>
 <summary>$${\color{#C0C0C0} "BYI .⋆♱"}$$  </summary>
+**Multiname user, feel free to call me any of my names irdc**
+  my names could change on platforms but unless i tell you not to use the name idm what you call me,
+use more than one same goes for pronouns [they/it pref currently. he is ok ig]
+
+
+
+**I don't get social cues so tone tags are appreciated though not required most times!**
   
-i am Introverted so yh..
-
-
-Multiname user, sai ar Lyric or Myrth are priamry online. feel free to call me any of my names tho. Cmon be creative!
-use more than one, same goes for pronouns [they/it pref currently. he is ok ig]
-
-
-*I don't get social cues so tone tags are appreciated though not required most times!
-  
-I only flirt JOKINGLY with my close friends(rarely, very rarely, and if ur a friend don't take these as romantic cues ok?), so if we just met lets not. don't label me as anything my gender is fluid af
-use they them to be safe ok?
+**Don't flirt with me unless we've known each other for a while**
+Especially if 1, we just met, 2 you're younger than 15 it makes me uncomfortable
 
   
-i have some typing quirks and will change them based on charcter hyperfixation i.e i act like/type a character im fixated on for a while
+**i have some typing quirks and will change them based on charcter hyperfixation i.e i act like/type a character im fixated on for a while**
+If i don't make sense tell me! so i explain better or communicate easier
 
 
-i'll act rude sometimes so i apologize in advance if i take my anger out on you
 
-i am an avoidant person so if i ignore you while online don't take it personally
+**i am an avoidant person so if i ignore you while online don't take it personally**
+Also note i'm offtab alot whispers are prefered. This also includes removing you from jmy list.
+If i find you troublesome, tiring etc. i will not hesitate to show it/cut u off.
 
-My interests come across as violent in most media so if that makes you uncomfortable just dni or tell me so i don't mention it around you
+**My interests come across as violent in most media so if that makes you uncomfortable just dni or tell me so i don't mention it around you**
+Not anything illegal just some ppl can't handle some types of violence in media [i.e shows/games like blood c, Human construction site, zeno rmk] 
 
 Just respect me and i respect you yuh? gud gud!
 
