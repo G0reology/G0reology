@@ -1,12 +1,7 @@
 
 <p align="center">
-  <img src="<img "height="552" alt="1" src="https://github.com/user-attachments/assets/d0a4c757-2265-4555-9513-da2db58ccf6e"
-" alt="Description" width="900">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/8e5fd7102075c5c2a9494ffe018eaa0268675b33/Untitled245_20260718144242.png" alt="Description" width="900">
 </p>
-
-
-
-
 
 
 
