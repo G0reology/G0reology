@@ -33,12 +33,12 @@ alt="description" width="900" />
 <div align="center">
 </tr>
   </table>
-  <a href="https://organs-info.straw.page"><img src="https://readme-typing-svg.demolab.com?font=EB+garamonds&size=20&duration=1000&pause=&color=C0C0C0&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
+  <a href="https://organs-info.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
 
 
 <details>
-<summary>$${\color{#a5a5a5} "READ THIS B4 INT༯"}$$ </summary>
+<summary>$${\color{#AAB4BF} "READ THIS B4 INT༯"}$$ </summary>
 
 
 Yall call me a copycat when yall have no proof one, 2 I'm not Shino. just because we had organs doesn't make me him. 3 no one has ever shown me proof I copied sm1(cuz I didn't you slow fks) if I settled the issue with you and you continue your bullshit I'll lowkey block you. if you're actually curious js talk to me bro not spreading dumbass rumors and jumping me only to get humbled cuz you're stupid(if you accuse me w/O proof) ty ty if u have beef with Shino talk to Shino not me. 
@@ -56,7 +56,7 @@ thats it? check my straw kk??
 </details>
 
 <details>
-<summary>$${\color{#C0C0C0} "BYI .⋆♱"}$$  </summary>
+<summary>$${\color{#AAB4BF} "BYI .⋆♱"}$$  </summary>
 **Multiname user, feel free to call me any of my names irdc**
   my names could change on platforms but unless i tell you not to use the name idm what you call me,
 use more than one same goes for pronouns [they/it pref currently. he is ok ig]
@@ -86,13 +86,13 @@ Just respect me and i respect you yuh? gud gud!
 </details>
 
 <details>
-<summary>$${\color{#a5a5a5} "Dni ꩜ ."}$$ᐟ</summary>
+<summary>$${\color{#AAB4BF} "Dni ꩜ ."}$$ᐟ</summary>
   
 basic DNI not strict tbh js use common sense. I block freely
 
 </details>
 
-<a href="https://github.com/CURSEDRESTRICTION"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=20&duration=1000&pause=&color=C0C0C0&center=true&vCenter=true&repeat=false&width=260&height=55&lines=SHINO" alt="Typing SVG" /></a> <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=20&duration=1000&pause=&color=C0C0C0&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=20&duration=1000&pause=&color=C0C0C0&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> 
+<a href="https://github.com/CURSEDRESTRICTION"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=SHINO" alt="Typing SVG" /></a> <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> 
 
 
 
