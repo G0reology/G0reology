@@ -76,7 +76,9 @@ thats it? check my straw kk??
 
 <details>
 <summary>$${\color{#AAB4BF} "BYI .⋆♱"}$$  </summary>
+  
 **Multiname user, feel free to call me any of my names irdc**
+  
   my names could change on platforms but unless i tell you not to use the name idm what you call me,
 use more than one same goes for pronouns [they/it pref currently. he is ok ig]
 
