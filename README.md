@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="https://organz.atabook.org/">
-    <img src="https://img.shields.io/badge/ATABOOK-A9A9A9?style=for-the-badge&logo=Atabook&logoColor=white">
+    <img src="https://img.shields.io/badge/ATABOOK-AAB4BF?style=for-the-badge&logo=Atabook&logoColor=blue">
   </a>       <a href="https://pronouns.cc/@Goreboy">
-    <img src="https://img.shields.io/badge/PRONOUNS-A9A9A9?style=for-the-badge&logo=pronouns&logoColor=white">
+    <img src="https://img.shields.io/badge/PRONOUNS-AAB4BF?style=for-the-badge&logo=pronouns&logoColor=blue">
   </a>
 
 
@@ -21,7 +21,7 @@
 alt="description" width="900" />
 </p>
 
-
+[WIP]
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/eba8731e-9ca3-43be-bf74-05aab1c973e3"
