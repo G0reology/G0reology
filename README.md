@@ -18,10 +18,9 @@
 
 
 <p align="center">
-<img width="736" height="736" alt="✦" src="https://github.com/user-attachments/assets/c2a9715b-3504-4f42-8c65-bf7ad65cdb29" />
-
-
-
+<img src="https://github.com/user-attachments/assets/eba8731e-9ca3-43be-bf74-05aab1c973e3"
+alt="description" width="900" />
+</p>
 
 
 
