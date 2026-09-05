@@ -21,10 +21,10 @@
 alt="description" width="900" />
 </p>
 
-$$\color{#AAB4BF} \text{⤷ ゛ ¢αℓℓ мє ::¢αєℓ ' ƒαуνєℓ ' ριєя¢є ' яσηιη' ℓυ¢αя∂(multinameuser!)}$$
-$$\color{#C0D8E0} \text{˖  ⊹  𝑮𝒂𝒎𝒆𝒓 .  ࣪࣪𝑨𝒇𝒓𝒐𝒃𝒓𝒊𝒕 . 17. ! . 𝑨𝒓𝒕𝒊𝒔𝒕[comms closed/taking a break]   ౨ৎ˚₊}$$
+$$\color{#AAB4BF} \text{゛ ¢αℓℓ мє ::¢αєℓ ' ƒαуνєℓ ' ριєя¢є ' яσηιη' ℓυ¢αя∂(multinameuser!)}$$
+$$\color{#C0D8E0} \text{˖  ⊹  𝑮𝒂𝒎𝒆𝒓 .  ࣪࣪𝑨𝒇𝒓𝒐𝒃𝒓𝒊𝒕 . 17. ! . 𝑨𝒓𝒕𝒊𝒔𝒕[comms closed/taking a break] ₊}$$
 
-$$\color{#C0E0E0} \text{⋆.˚ 𝐜*𝐇 𝐟𝐫𝐞𝐞𝐥𝐲 𝐢𝐝𝐦 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐧 𝐃𝐧𝐢, 𝑴𝒐𝒔𝒕𝒍𝒚 𝐨𝐟𝐟𝐭𝐚𝐛/𝐝𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐥𝐨𝐭 .  ⋆‧°𓏲ּ𝄢}$$
+$$\color{#C0E0E0} \text{˚ 𝐜*𝐇 𝐟𝐫𝐞𝐞𝐥𝐲 𝐢𝐝𝐦 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐧 𝐃𝐧𝐢, 𝑴𝒐𝒔𝒕𝒍𝒚 𝐨𝐟𝐟𝐭𝐚𝐛/𝐝𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐥𝐨𝐭 .‧°}$$
 
 
 $$\color{#DDFFFF}{\text{We are a system and most αℓтєяѕ are on iwecuf. ∂ηƒ υη∂єя 15 .}}$$
@@ -38,8 +38,8 @@ $$\color{#DDFFFF}{\text{We are a system and most αℓтєяѕ are on iwecuf. �
 
 
 
-$$\color{#C0D8E0} \text{⤷ ゛ нуρєяѕняιηg уυмє σƒ мυℓтιρℓє ιη¢ℓυ∂ιηg Ronin, мαєησ αη∂ тѕυgιησ! 𝐧𝐨𝐧 𝐬𝐡𝐚𝐫𝐢𝐧𝐠 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐟𝐮𝐥𝐥𝐲 𝐃𝐍𝐈}$$
-$$\color{#DDFFFF} \text{˖   Some  ࣪࣪My kins + Comf characters     ౨ৎ˚₊}$$
+$$\color{#C0D8E0} \text{ ゛ нуρєяѕняιηg уυмє σƒ мυℓтιρℓє ιη¢ℓυ∂ιηg Ronin, мαєησ αη∂ тѕυgιησ! 𝐧𝐨𝐧 𝐬𝐡𝐚𝐫𝐢𝐧𝐠 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐟𝐮𝐥𝐥𝐲 𝐃𝐍𝐈}$$
+$$\color{#DDFFFF} \text{˖   Some  ࣪࣪My kins + Comf characters ˚₊}$$
 
 
 <p align="center">
