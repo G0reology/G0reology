@@ -1,10 +1,6 @@
-
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/8e5fd7102075c5c2a9494ffe018eaa0268675b33/Untitled245_20260718144242.png" alt="Description" width="900">
+  <img src="https://githubusercontent.com" alt="Black and white lace patterns" width="900">
 </p>
-
-
-
 
 
 <p align="center">
