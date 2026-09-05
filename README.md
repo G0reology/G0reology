@@ -18,7 +18,8 @@
 
 
 <p align="center">
-<img width="736" height="736" alt="✦" src="https://github.com/user-attachments/assets/bb963b06-10b7-4790-8b66-8c32bfa6837e" />
+<img width="736" height="736" alt="✦" src="https://github.com/user-attachments/assets/c2a9715b-3504-4f42-8c65-bf7ad65cdb29" />
+
 
 
 
