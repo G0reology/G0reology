@@ -92,7 +92,7 @@ basic DNI not strict tbh js use common sense. I block freely
 
 </details>
 
-<a href="https://github.com/CURSEDRESTRICTION"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=SHINO" alt="Typing SVG" /></a> <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> 
+<a href="https://github.com/CURSEDRESTRICTION"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=SHINO" alt="Typing SVG" /></a> <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> 
 
 
 
