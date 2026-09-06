@@ -47,7 +47,7 @@ $$\color{#DDFFFF} \text{˖   Some  ࣪࣪My kins + Comf characters ˚₊}$$
 alt="description" width="900" />
 </p>
 
-$$\color{#C0E0E0} \text{˚ 𝐜Remaking straw again, current on has mistakes .‧°}$$
+$$\color{#C0E0E0} \text{˚ Remaking straw again.‧°}$$
 
 <div align="center">
 </tr>
