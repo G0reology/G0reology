@@ -52,7 +52,7 @@ $$\color{#C0E0E0} \text{˚ 𝐜Remaking straw again, current on has mistakes .�
 <div align="center">
 </tr>
   </table>
-  <a href="https://organs-info.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
+  <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=C0E0E0&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
 
 
