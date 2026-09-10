@@ -43,7 +43,7 @@ $$\color{#DDFFFF}{\text{We are a system and most αℓтєяѕ are on iwecuf. �
 
 
 
-$$\color{#C0D8E0} \text{ ゛ нуρєяѕняιηg уυмє σƒ мυℓтιρℓє ιη¢ℓυ∂ιηg Ronin, мαєησ αη∂ тѕυgιησ! 𝐧𝐨𝐧 𝐬𝐡𝐚𝐫𝐢𝐧𝐠 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐟𝐮𝐥𝐥𝐲 𝐃𝐍𝐈}$$
+
 $$\color{#DDFFFF} \text{˖   Some  ࣪࣪My kins + Comf characters ˚₊}$$
 
 
