@@ -26,7 +26,7 @@
 alt="description" width="900" />
 </p>
 
-$$\color{#AAB4BF} \text{゛ ¢αℓℓ мє ::¢αєℓ ' ƒαуνєℓ ' ριєя¢є ' яσηιη' ℓυ¢αя∂(multinameuser!)}$$
+$$\color{#AAB4BF} \text{゛ ¢αℓℓ мє ::¢αєℓ ' яσηιη' ℓυ¢αя∂(multinameuser!)}$$
 $$\color{#C0D8E0} \text{˖  ⊹  𝑮𝒂𝒎𝒆𝒓 .  ࣪࣪𝑨𝒇𝒓𝒐𝒃𝒓𝒊𝒕 . 17. ! . 𝑨𝒓𝒕𝒊𝒔𝒕[comms closed/taking a break] ₊}$$
 
 $$\color{#C0E0E0} \text{˚ 𝐜*𝐇 𝐟𝐫𝐞𝐞𝐥𝐲 𝐢𝐝𝐦 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐧 𝐃𝐧𝐢, 𝑴𝒐𝒔𝒕𝒍𝒚 𝐨𝐟𝐟𝐭𝐚𝐛/𝐝𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐥𝐨𝐭 .‧°}$$
