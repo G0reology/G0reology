@@ -91,10 +91,12 @@ use more than one same goes for pronouns [they/it pref currently. he is ok ig]
 
 **I don't get social cues so tone tags are appreciated though not required most times!**
   
-**Don't flirt with me unless we've known each other for a while**
-Especially if 1, we just met, 2 you're younger than 15 it makes me uncomfortable
+**Don't flirt with me, make sexual comments**
+since some people love breaking boundries, respect this or dni. it makes me uncomfortable 
+especially if we are nothing but Acquaintances/friends
 
-  
+
+
 **i have some typing quirks and will change them based on charcter hyperfixation i.e i act like/type a character im fixated on for a while**
 If i don't make sense tell me! so i explain better or communicate easier
 
@@ -117,7 +119,7 @@ Just respect me and i respect you yuh? gud gud!
 basic DNI not strict tbh js use common sense. I block freely
 
 </details>
- <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> <a href="https://github.com/CrucifiedOrgan"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Balls!" alt="Typing SVG" /></a>
+ <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> <a href="https://github.com/CrucifiedOrgan"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Shino" alt="Typing SVG" /></a>
 
 
 
