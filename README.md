@@ -26,7 +26,7 @@
 alt="description" width="900" />
 </p>
 
-$$\color{#AAB4BF} \text{゛ ¢αℓℓ мє ::¢αєℓ ' яσηιη' ℓυ¢αя∂(multinameuser!)}$$
+$$\color{#AAB4BF} \text{゛ ¢αℓℓ мє ::¢αєℓ ' яσηιη' ℓυ¢αя∂(Traumagenic system: DID)}$$
 $$\color{#C0D8E0} \text{˖  ⊹  𝑮𝒂𝒎𝒆𝒓 .  ࣪࣪𝑨𝒇𝒓𝒐𝒃𝒓𝒊𝒕 . 17. ! . 𝑨𝒓𝒕𝒊𝒔𝒕 ₊}$$
 
 $$\color{#C0E0E0} \text{˚ 𝐜*𝐇 𝐟𝐫𝐞𝐞𝐥𝐲 𝐢𝐝𝐦 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐧 𝐃𝐧𝐢, 𝑴𝒐𝒔𝒕𝒍𝒚 𝐨𝐟𝐟𝐭𝐚𝐛/𝐝𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐥𝐨𝐭 .‧°}$$
@@ -79,7 +79,7 @@ So yeah i experiment with my styles, but NONE of em have references besides my s
 'your style changes so'-???
 
 
-  SYS most alters usually act like me so its hard to tell unless you ask. [they'll be less active on ponytown. currently working on a pronouns page for em' ]
+  DID System. [please respect that ok? i'll make a strawpage eventually im just drained mentally-C.]
 
 
 ALSO my memory is bad, if we don't interact for a while i forget who you are
