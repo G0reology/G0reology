@@ -1,21 +1,21 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=ffffff&label=⏾&style=upper" alt="Vamps Counter" />
+  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=000000&label=⏾&style=upper" alt="Vamps Counter" />
 </p>
 
 
 
 <p align="center">
   <a href="https://organz.atabook.org/">
-    <img src="https://img.shields.io/badge/ATABOOK-AAB4BF?style=for-the-badge&logo=Atabook&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/ATABOOK-808080?style=for-the-badge&logo=Atabook&logoColor=FFFFFF">
   </a>       <a href="https://pronouns.cc/@Goreboy">
-    <img src="https://img.shields.io/badge/PRONOUNS-AAB4BF?style=for-the-badge&logo=pronouns&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/PRONOUNS-808080?style=for-the-badge&logo=pronouns&logoColor=FFFFFF">
   </a>
 
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=15&pause=600&color=AAB4BF&width=435&lines=%22+its+so+grotesque+,its+actually+beautiful.+life+or+death%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=15&pause=600&color=808080&width=435&lines=%22+its+do+you+beliive+in+love+at+first+sight%22" alt="Typing SVG" /></a>
 <p align="center">
 
 
