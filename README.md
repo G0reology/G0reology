@@ -14,24 +14,18 @@
 
 
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=15&pause=600&color=808080&width=435&lines=%22+its+do+you+beliive+in+love+at+first+sight%22" alt="Typing SVG" /></a>
-<p align="center">
-
 
 <div align="center">
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/79b23cce-0fc2-49b8-b5e2-a69aa387826a"
+<img src="https://github.com/user-attachments/assets/dcfd12dd-b8b0-4ce0-98f3-68c1e378c82d" 
 alt="description" width="900" />
 </p>
 
-$$\color{#AAB4BF} \text{゛ ¢αℓℓ мє ::¢αєℓ ' яσηιη' ℓυ¢αя∂(Traumagenic system: DID)}$$
-$$\color{#C0D8E0} \text{˖  ⊹  𝑮𝒂𝒎𝒆𝒓 .  ࣪࣪𝑨𝒇𝒓𝒐𝒃𝒓𝒊𝒕 . 17. ! . 𝑨𝒓𝒕𝒊𝒔𝒕 ₊}$$
+$$\color{#808080} \text{゛ ¢αℓℓ мє ::¢αєℓ ' яσηιη' ℓυ¢αя∂(Traumagenic system: DID)}$$
+$$\color{#ffffff} \text{˖  ⊹  𝑮𝒂𝒎𝒆𝒓 .  ࣪࣪𝑨𝒇𝒓𝒐𝒃𝒓𝒊𝒕 . 17. ! . 𝑨𝒓𝒕𝒊𝒔𝒕 ₊}$$
 
-$$\color{#C0E0E0} \text{˚ 𝐜*𝐇 𝐟𝐫𝐞𝐞𝐥𝐲 𝐢𝐝𝐦 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐧 𝐃𝐧𝐢, 𝑴𝒐𝒔𝒕𝒍𝒚 𝐨𝐟𝐟𝐭𝐚𝐛/𝐝𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐥𝐨𝐭 .‧°}$$
-
-
+$$\color{#808080} \text{˚ 𝐜*𝐇 𝐟𝐫𝐞𝐞𝐥𝐲 𝐢𝐝𝐦 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐧 𝐃𝐧𝐢, 𝑴𝒐𝒔𝒕𝒍𝒚 𝐨𝐟𝐟𝐭𝐚𝐛/𝐝𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐥𝐨𝐭 .‧°}$$
 
 
 
@@ -43,15 +37,11 @@ $$\color{#C0E0E0} \text{˚ 𝐜*𝐇 𝐟𝐫𝐞𝐞𝐥𝐲 𝐢𝐝𝐦 𝐮�
 
 
 
-$$\color{#DDFFFF} \text{˖   Some  ࣪࣪My kins + Comf characters ˚₊}$$
 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/eba8731e-9ca3-43be-bf74-05aab1c973e3"
-alt="description" width="900" />
-</p>
 
-$$\color{#C0E0E0} \text{˚ Remaking straw again.‧°}$$
+
+$$\color{#808080} \text{˚ Remaking straw again.‧°}$$
 
 <div align="center">
 </tr>
