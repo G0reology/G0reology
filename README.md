@@ -19,7 +19,7 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/dcfd12dd-b8b0-4ce0-98f3-68c1e378c82d" 
-alt="description" width="900" />
+alt="description" width="500" />
 </p>
 
 $$\color{#808080} \text{゛ ¢αℓℓ мє ::¢αєℓ ' яσηιη' ℓυ¢αя∂(Traumagenic system: DID)}$$
