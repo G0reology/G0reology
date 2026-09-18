@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=000000&label=⏾&style=upper" alt="Vamps Counter" />
+  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=ffffff&label=⏾&style=upper" alt="Vamps Counter" />
 </p>
 
 
