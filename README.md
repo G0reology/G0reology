@@ -22,16 +22,6 @@
 alt="description" width="500" />
 </p>
 
-$$\color{#808080} \text{゛ ¢αℓℓ мє ::¢αєℓ ' яσηιη' ℓυ¢αя∂(Traumagenic system: DID)}$$
-$$\color{#ffffff} \text{˖  ⊹  𝑮𝒂𝒎𝒆𝒓 .  ࣪࣪𝑨𝒇𝒓𝒐𝒃𝒓𝒊𝒕 . 17. ! . 𝑨𝒓𝒕𝒊𝒔𝒕 ₊}$$
-
-$$\color{#808080} \text{˚ 𝐜*𝐇 𝐟𝐫𝐞𝐞𝐥𝐲 𝐢𝐝𝐦 𝐮𝐧𝐥𝐞𝐬𝐬 𝐨𝐧 𝐃𝐧𝐢, 𝑴𝒐𝒔𝒕𝒍𝒚 𝐨𝐟𝐟𝐭𝐚𝐛/𝐝𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐥𝐨𝐭 .‧°}$$
-
-
-
-
-
-
 
 
 
@@ -48,7 +38,8 @@ $$\color{#808080} \text{˚ Remaking straw again.‧°}$$
   </table>
   <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=808080&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
-
+<p align="center">
+$$\color{#808080} \text{˚Take it slow, take it easy on me .‧°}$$
 
 
 <p align="center">
@@ -60,20 +51,7 @@ $$\color{#808080} \text{˚ Remaking straw again.‧°}$$
 
 
 
-<details>
-<summary>$${\color{#AAB4BF} "READ THIS B4 INT༯"}$$ </summary>
 
-
-Yall call me a copycat when yall have no proof one, 2 I'm not Shino. just because we had organs doesn't make me him. 3 no one has ever shown me proof I copied sm1(cuz I didn't you slow fks) if I settled the issue with you and you continue your bullshit I'll lowkey block you. if you're actually curious js talk to me bro not spreading dumbass rumors and jumping me only to get humbled cuz you're stupid(if you accuse me w/O proof) ty ty if u have beef with Shino talk to Shino not me. 
-So yeah i experiment with my styles, but NONE of em have references besides my style is recognizable if yall keep jumping me with or without my github on anyway, thats a stupid excuse to accuse me of copying. 
-'your style changes so'-???
-
-
-  DID System. [please respect that ok? i'll make a strawpage eventually im just drained mentally-C.]
-
-
-ALSO my memory is bad, if we don't interact for a while i forget who you are
-thats it? check my straw kk?? 
 
 
 </details>
@@ -84,20 +62,16 @@ thats it? check my straw kk??
 **Multiname user, feel free to call me any of my names irdc**
   
   my names could change on platforms but unless i tell you not to use the name idm what you call me,
-use more than one same goes for pronouns [they/it pref currently. he is ok ig]
+use more than one.
 
 
 
 **I don't get social cues so tone tags are appreciated though not required most times!**
   
-**Don't flirt with me, make sexual comments**
+**Don't flirt with me, make sexual comments out of the blue**
 since some people love breaking boundries, respect this or dni. it makes me uncomfortable 
-especially if we are nothing but Acquaintances/friends
+especially if we are nothing but Acquaintances/ just met
 
-
-
-**i have some typing quirks and will change them based on charcter hyperfixation i.e i act like/type a character im fixated on for a while**
-If i don't make sense tell me! so i explain better or communicate easier
 
 
 
