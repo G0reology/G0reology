@@ -12,7 +12,7 @@ alt="description" width="1000" />
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=813a9a&label=YURI!&style=upper" alt="Vamps Counter" />
+  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=C780D9&label=YURI!&style=upper" alt="Vamps Counter" />
 </p>
 
 
