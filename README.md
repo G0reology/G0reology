@@ -1,4 +1,16 @@
 
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/84d47dbc-29b1-4ee3-bfd1-c22d2a584f01" 
+alt="description" width="1000" />
+</p>
+
+
+
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=813a9a&label=Magica!&style=upper" alt="Vamps Counter" />
 </p>
@@ -20,7 +32,7 @@
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ef390b25-364c-4478-b217-4824df0f06c2"
+<img src="https://github.com/user-attachments/assets/5b06189c-c57a-4bce-b6c0-8b4308bbee82" 
 alt="description" width="700" />
 </p>
 
@@ -58,6 +70,13 @@ $$\color{#813a9a} \text{˚Aww so cute awwwe, wauw mw a bunch of gays. im da cool
 
 <details>
 <summary>$${\color{#813a9a} "BYI .⋆♱"}$$  </summary>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ef390b25-364c-4478-b217-4824df0f06c2"
+alt="description" width="700" />
+</p>
+
+
   
 **Multiname user, feel free to call me any of my names irdc**
   
@@ -98,6 +117,9 @@ basic DNI not strict tbh js use common sense. I block freely
 
 
 
-✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦✦ . 　⁺ 　 . ✦ . 　
+<p align="center">
+<img src="https://github.com/user-attachments/assets/18ed1062-795a-44ae-a6c6-3eb3ea036095"  
+alt="description" width="1000" />
+</p>
 
 
