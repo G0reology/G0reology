@@ -17,15 +17,10 @@
 
 <div align="center">
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/7af6626e-7ae2-45b2-b096-48c84552904d"  
-alt="description" width="1000" />
-</p>
-
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/baf4c1f7-6333-4cbf-b353-4b989b26fe41" 
+<img src="https://github.com/user-attachments/assets/ef390b25-364c-4478-b217-4824df0f06c2"
 alt="description" width="500" />
 </p>
 
@@ -41,10 +36,10 @@ $$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
 <div align="center">
 </tr>
   </table>
-  <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=808080&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
+  <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=813a9a&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
 <p align="center">
-$$\color{#813a9a} \text{˚Take it slow, take it easy on me .‧°}$$
+$$\color{#813a9a} \text{˚Aww so cute awwwe, wauw mw a bunch of gays. im da cool one .‧°}$$
 
 
 <p align="center">
