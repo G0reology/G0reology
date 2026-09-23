@@ -55,7 +55,7 @@ $$\color{#813a9a} \text{˚Aww so cute awwwe, wauw mw a bunch of gays. im da cool
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/289d9550-3ffa-4de4-ae3b-63af2bfa30e6" 
-alt="description" width="50" />
+alt="description" width="70" />
 </p>
 
 
