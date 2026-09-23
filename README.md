@@ -39,12 +39,7 @@ alt="description" width="700" />
 
 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/43667da1-3a92-45f1-8cfa-329ce78f3043" 
-alt="description" width="90" />
-<img src="https://github.com/user-attachments/assets/2d63f6fa-3104-43a9-aa44-577fd6aff0f2"
-alt="description" width="90" /><img src="https://github.com/user-attachments/assets/d28407db-5f3d-435f-877e-ccb71b36baa8"
-alt="description" width="90" />
+
 
 
 $$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
