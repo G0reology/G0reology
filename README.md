@@ -25,7 +25,7 @@ alt="description" width="1000" />
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/2c12663a-4439-43a2-8140-b713c2c4079f"
+<img src="https://github.com/user-attachments/assets/baf4c1f7-6333-4cbf-b353-4b989b26fe41" 
 alt="description" width="500" />
 </p>
 
