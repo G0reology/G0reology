@@ -19,13 +19,13 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/7af6626e-7ae2-45b2-b096-48c84552904d"  
-alt="description" width="500" />
+alt="description" width="1000" />
 </p>
 
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/28e7f49c-19cf-4faf-8918-db4929b17463"  
+<img src="https://github.com/user-attachments/assets/4231ac77-02b4-4bab-8197-153b86b5b215" 
 alt="description" width="500" />
 </p>
 
