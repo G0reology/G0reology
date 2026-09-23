@@ -1,15 +1,15 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=808080&label=⏾&style=upper" alt="Vamps Counter" />
+  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=813a9a&label=⏾&style=upper" alt="Vamps Counter" />
 </p>
 
 
 
 <p align="center">
   <a href="https://organz.atabook.org/">
-    <img src="https://img.shields.io/badge/ATABOOK-808080?style=for-the-badge&logo=Atabook&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/ATABOOK-813a9a?style=for-the-badge&logo=Atabook&logoColor=FFFFFF">
   </a>       <a href="https://pronouns.cc/@Goreboy">
-    <img src="https://img.shields.io/badge/PRONOUNS-808080?style=for-the-badge&logo=pronouns&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/PRONOUNS-813a9a?style=for-the-badge&logo=pronouns&logoColor=FFFFFF">
   </a>
 
 
@@ -36,7 +36,7 @@ alt="description" width="500" />
 
 
 
-$$\color{#808080} \text{˚ Remaking straw again.‧°}$$
+$$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
 
 <div align="center">
 </tr>
@@ -44,7 +44,7 @@ $$\color{#808080} \text{˚ Remaking straw again.‧°}$$
   <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=808080&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
 <p align="center">
-$$\color{#808080} \text{˚Take it slow, take it easy on me .‧°}$$
+$$\color{#813a9a} \text{˚Take it slow, take it easy on me .‧°}$$
 
 
 <p align="center">
@@ -62,7 +62,7 @@ $$\color{#808080} \text{˚Take it slow, take it easy on me .‧°}$$
 </details>
 
 <details>
-<summary>$${\color{#AAB4BF} "BYI .⋆♱"}$$  </summary>
+<summary>$${\color{#813a9a} "BYI .⋆♱"}$$  </summary>
   
 **Multiname user, feel free to call me any of my names irdc**
   
@@ -92,7 +92,7 @@ Just respect me and i respect you yuh? gud gud!
 </details>
 
 <details>
-<summary>$${\color{#AAB4BF} "Dni ꩜ ."}$$ᐟ</summary>
+<summary>$${\color{#813a9a} "Dni ꩜ ."}$$ᐟ</summary>
   
 basic DNI not strict tbh js use common sense. I block freely
 
