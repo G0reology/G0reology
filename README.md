@@ -21,7 +21,7 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ef390b25-364c-4478-b217-4824df0f06c2"
-alt="description" width="500" />
+alt="description" width="700" />
 </p>
 
 
