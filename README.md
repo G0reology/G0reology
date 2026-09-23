@@ -53,6 +53,13 @@ $$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
 <p align="center">
 $$\color{#813a9a} \text{˚Aww so cute awwwe, wauw mw a bunch of gays. im da cool one .‧°}$$
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/289d9550-3ffa-4de4-ae3b-63af2bfa30e6" 
+alt="description" width="50" />
+</p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
