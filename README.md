@@ -107,8 +107,20 @@ Just respect me and i respect you yuh? gud gud!
 
 <details>
 <summary>$${\color{#813a9a} "Dni ꩜ ."}$$ᐟ</summary>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/156f6dd6-a872-4bbd-94e3-0d1900335113" 
+alt="description" width="700" />
+</p>
+
+
   
 basic DNI not strict tbh js use common sense. I block freely
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b91e9d5a-9ca8-4b2c-afb6-34ba571a0917" 
+alt="description" width="700" />
+</p>
+
 
 </details>
  <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> <a href="https://github.com/CrucifiedOrgan"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=AAB4BF&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Shino" alt="Typing SVG" /></a>
