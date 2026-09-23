@@ -19,7 +19,7 @@ alt="description" width="1000" />
 
 <p align="center">
   <a href="https://organz.atabook.org/">
-    <img src="https://img.shields.io/badge/ATABOOK-813a9a?style=for-the-badge&logo=Atabook&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/ATABOOK-F26DBC?style=for-the-badge&logo=Atabook&logoColor=FFFFFF">
   </a>       <a href="https://pronouns.cc/@Goreboy">
     <img src="https://img.shields.io/badge/PRONOUNS-813a9a?style=for-the-badge&logo=pronouns&logoColor=FFFFFF">
   </a>
