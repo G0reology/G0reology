@@ -95,15 +95,17 @@ alt="description" width="700" />
 **Multiname user, feel free to call me any of my names irdc**
   
   my names could change on platforms but unless i tell you not to use the name idm what you call me,
-use more than one.
+use more than one. i prefer Cael, ode/dette, lace or raei atm
 
 
 
 **I don't get social cues so tone tags are appreciated though not required most times!**
   
-**Don't flirt with me, make sexual comments out of the blue**
-since some people love breaking boundries, respect this or dni. it makes me uncomfortable 
-especially if we are nothing but Acquaintances/ just met
+**I AM NOT A NICE PERSON TO BE AROUND I REPEAT I AM NOT NICE, bear with me**
+i have a lot of mental disorders [cluster b personality disorders] i will lash out or get mad
+easily but im not necessarily mad at you! i do try to control it but uh..yeh
+i dont feel the need to list them out tbh just keep that in mind
+
 
 
 
