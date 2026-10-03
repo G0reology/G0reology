@@ -95,8 +95,7 @@ alt="description" width="700" />
 **Multiname user, feel free to call me any of my names irdc**
   
   my names could change on platforms but unless i tell you not to use the name idm what you call me,
-use more than one. i prefer Cael, ode/dette, Desi or fae!
-
+use more than one.
 
 
 **I don't get social cues so tone tags are appreciated though not required most times!**
