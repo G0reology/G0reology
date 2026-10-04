@@ -91,6 +91,14 @@ alt="description" width="700" />
 </p>
 
 
+**i cannot belive i have to bring this up again** 
+if u accuse me i.e 'arent u a copy cat, goreology this, goreology that' i will cuss u out bro. Goreology[me] has done nothing 
+you are looking for shino who i got involved w and was mistaken for. Omds are we slow pt? all 'proof' you have is i rumors from rndm ppl
+and said ppl only have beef w shino[crucifiedorgan] 
+I wont tolerate this crap anymore not from some ignorant bitches pls get a life and let me be. 
+bloody hell..
+
+
   
 **Multiname user, feel free to call me any of my names irdc**
   
