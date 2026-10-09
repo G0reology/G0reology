@@ -50,7 +50,7 @@ $$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
   <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=813a9a&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
 <p align="center">
-$$\color{#813a9a} \text{˚Aww so cute awwwe, wauw mw a bunch of gays. im da cool one .‧°}$$
+$$\color{#813a9a} \text{˚Aww so cute awwwe, wauw mw a bunch of gays. we da cool one .‧°}$$
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/289d9550-3ffa-4de4-ae3b-63af2bfa30e6" 
@@ -91,29 +91,29 @@ alt="description" width="700" />
 </p>
 
 
-**i cannot belive i have to bring this up again** 
+**we cannot belive we have to bring this up again** 
 
-if u accuse me i.e 'arent u a copy cat, goreology this, goreology that' i will cuss u out bro. Goreology[me] has done nothing
+if u accuse us i.e 'arent u a copy cat, goreology this, goreology that' we will cuss u out bro. Goreology[me] has done nothing
 
-you are looking for shino who i got involved w and was mistaken for. Omds are we slow pt? all 'proof' you have is i rumors from rndm ppl
+you are looking for shino who we got involved w and was mistaken for. Omds are we slow pt? all 'proof' you have is rumors from rndm ppl
 and said ppl only have beef w shino[crucifiedorgan] 
 
-I wont tolerate this crap anymore not from some ignorant bitches pls get a life and let me be. 
+we wont tolerate this crap anymore not from some ignorant bitches pls get a life and let me be. 
 
 bloody hell..
 
 
   
-**Multiname user, feel free to call me any of my names irdc**
+**Multiname user, feel free to call us any of my names irdc**
   
-  my names could change on platforms but unless i tell you not to use the name idm what you call me,
+  our names could change on platforms but unless we tell you not to use the name idm what you call us,
 use more than one.
 
 
-**I don't get social cues so tone tags are appreciated though not required most times!**
+**we don't get social cues so tone tags are appreciated though not required most times!**
   
-**I AM NOT A NICE PERSON TO BE AROUND I REPEAT I AM NOT NICE, bear with me**
-i have a lot of mental disorders [cluster b personality disorders] i will lash out or get mad
+**WE ARE NOT A NICE TO BE AROUND WE REPEAT WE AM NOT NICE, bear with us**
+host has a lot of mental disorders [cluster b personality disorders] i will lash out or get mad
 easily but im not necessarily mad at you! i do try to control it but uh..yeh
 i dont feel the need to list them out tbh just keep that in mind
 
@@ -121,14 +121,14 @@ i dont feel the need to list them out tbh just keep that in mind
 
 
 
-**i am an avoidant person so if i ignore you while online don't take it personally**
-Also note i'm offtab alot whispers are prefered. This also includes removing you from jmy list.
-If i find you troublesome, tiring etc. i will not hesitate to show it/cut u off.
+**we am an avoidant person so if ww ignore you while online don't take it personally**
+Also note we are offtab alot whispers are prefered. This also includes removing you from our list.
+If we find you troublesome, tiring etc. we will not hesitate to show it/cut u off.
 
-**My interests come across as violent in most media so if that makes you uncomfortable just dni or tell me so i don't mention it around you**
+**our interests come across as violent in most media so if that makes you uncomfortable just dni or tell me so us don't mention it around you**
 Not anything illegal just some ppl can't handle some types of violence in media [i.e shows/games like blood c, Human construction site, zeno rmk] 
 
-Just respect me and i respect you yuh? gud gud!
+Just respect us and we respect you yuh? gud gud!
 
 </details>
 
@@ -141,7 +141,7 @@ alt="description" width="700" />
 
 
   
-basic DNI not strict tbh js use common sense. I block freely
+basic DNI not strict tbh js use common sense. we block freely
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b91e9d5a-9ca8-4b2c-afb6-34ba571a0917" 
