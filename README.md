@@ -39,7 +39,7 @@ alt="description" width="700" />
 
 
 
-
+$$\color{#813a9a} \text{˚ 7teen. Black. FTM ok??.‧°}$$
 
 
 $$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
