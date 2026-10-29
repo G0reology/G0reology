@@ -192,10 +192,9 @@ alt="description" width="1000" />
   </tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-ponytown titles that im in!! eek
-
-[cool players](https://github.com/pt-players)   [top c+her](https://github.com/pt-walk-of-fame)   [pt's perona](https://github.com/title-town)   [pts shirahoshi](https://github.com/charactersofpt)   [kunalings](https://github.com/pt-friendships)
-
+titles i wld love to be voted for cuz im cool ok?
+     Characters: pts Noh, ronin beaufort, suna rintaro, tsugino haru or fluttershy
+     anything else u see fit if yk me ^_^ be tht c*h'r, friend, ponies etc
   </tr>
 </table>
 <p align="center">
