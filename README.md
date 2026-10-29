@@ -16,52 +16,6 @@
 
 
 
-<div align="center">
-
-
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/5b06189c-c57a-4bce-b6c0-8b4308bbee82" 
-alt="description" width="700" />
-</p>
-
-
-
-
-$$\color{#813a9a} \text{ 'gen check all links b4 int'}$$
-
-
-$$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
-
-<div align="center">
-</tr>
-  </table>
-  <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=813a9a&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
-
-<p align="center">
-$$\color{#813a9a} \text{˚Aww so cute awwwe, wauw mw a bunch of gays. im da cool one .‧°}$$
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/289d9550-3ffa-4de4-ae3b-63af2bfa30e6" 
-alt="description" width="150" />
-<img src="https://github.com/user-attachments/assets/43d7737e-c637-40fe-bdc9-74fcd3ea3928"
-alt="description" width="150" />
-<img src="https://github.com/user-attachments/assets/d6806048-e94f-4361-9374-900445c50d22"
-alt="description" width="150" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -89,10 +43,13 @@ $$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
   <tr>
     <!-- Left Column: Large Image Block -->
     <td rowspan="4" width="60%" valign="top">
+     <p align="center">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23f9b4cf&right_color=%23ff9494&radius=0" alt="visitor badge"/>
+</p>
       <img src="https://github.com/user-attachments/assets/edbb9edc-602d-4f1b-9939-b7c15d0f8920" width="300">
     </td>
     <!-- Right Column: Profile Header Info -->
-    <td width="40%" valign="top"> 
+    <td width="40%" valign="top">
       <p> ${\textsf{\color{#cfb3a2}   Kyren}}$ ${\textsf{\color{#c4a797}  /}}$ ${\textsf{\color{#bb9e8e}  Altair}}$
       <p> ${\textsf{\color{#ad8f80}  17+}}$ ${\textsf{\color{#a28375}  Offtab usually}}$ </p>
       <p> ${\textsf{\color{#98786b}  student/working}}$ ${\textsf{\color{#826255}  scottish/african　 ⊹}}$ </p>
