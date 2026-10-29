@@ -202,10 +202,3 @@ ponytown titles that im in!! eek
 <p align="center">
 </a>
 
-<img src="https://i.postimg.cc/Z5fZChcj/bg.png" width="900">
-
-<p align="center">
-<img src="https://i.postimg.cc/VLpW1SQN/top2.png" width=900">
-
-<p align="center">
-</a>
