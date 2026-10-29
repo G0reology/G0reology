@@ -8,7 +8,9 @@ alt="description" width="1000" />
 
 
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&label=YURI!&left_color=%23FDF4F4&right_color=%23F5B3C8&radius=0&height=15" alt="visitor badge"/>
+</p>
 
 
 <p align="center">
