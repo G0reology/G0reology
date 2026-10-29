@@ -34,7 +34,7 @@ $$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
   <details>
   <summary>special mentions</summary>
   <p> </p>
-  <p> Val, aero, sabo[feng], himeno, riku, lotus, mimi, electra, Tokyo, axel, hayden, pearl, alex + not in any order </p>
+  <p> Val, aero, sabo[feng], himeno, riku, lotus, mimi, electra, Tokyo, axel, hayden, pearl, alex, ken + not in any order </p>
     </details>
     </td>
     </td>
