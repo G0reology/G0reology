@@ -168,7 +168,7 @@ alt="description" width="1000" />
   <tr>
     <!-- Left Column: Large Image Block -->
     <td rowspan="4" width="60%" valign="top">
-      <img src="https://github.com/user-attachments/assets/f475d5a9-f561-469c-9c8a-77304ae17a6c" width="100">
+      <img src="https://github.com/user-attachments/assets/edbb9edc-602d-4f1b-9939-b7c15d0f8920" width="300">
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top"> 
@@ -192,11 +192,11 @@ alt="description" width="1000" />
   </tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-titles i wld love to be voted for cuz im cool ok?
-        Characters: pts Noh, ronin beaufort, suna rintaro, tsugino haru or fluttershy
-     anything else u see fit if yk me ^_^ be tht c*h'r, friend, ponies etc
+      <p> ${\textsf{\color{#cfb3a2}  titles i wld love to be }}$ ${\textsf{\color{#c4a797}  voted}}$ ${\textsf{\color{#bb9e8e}  for cuz im cool ok?}}$
+      <p> ${\textsf{\color{#ad8f80}  Characters: pts Noh, ronin beaufort,}}$ ${\textsf{\color{#a28375}  suna rintaro, tsugino haru or fluttershy}}$ </p>
+      <p> ${\textsf{\color{#98786b}   anything else u see fit if yk me ^_^ }}$ ${\textsf{\color{#826255}  be tht c*h'r, friend, ponies etc}$ </p>
+     
   </tr>
 </table>
 <p align="center">
 </a>
-
