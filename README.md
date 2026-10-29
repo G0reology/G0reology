@@ -168,7 +168,7 @@ alt="description" width="1000" />
   <tr>
     <!-- Left Column: Large Image Block -->
     <td rowspan="4" width="60%" valign="top">
-      <img src="https://i.postimg.cc/CLzXKVWR/dtt.png" width="300">
+      <img src="https://github.com/user-attachments/assets/f475d5a9-f561-469c-9c8a-77304ae17a6c" width="300">
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top"> 
