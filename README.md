@@ -44,7 +44,7 @@ $$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
     <td valign="top">
       <p> ${\textsf{\color{#ED7272}  titles i wld love to be }}$ ${\textsf{\color{#E86464} voted}}$ ${\textsf{\color{#E85151}  for cuz im cool ok?}}$
       <p> ${\textsf{\color{#B83D3D}  Characters: pts Noh[HCS], ronin beaufort,}}$ ${\textsf{\color{#D14D4D}  suna rintaro, tsugino haru or fluttershy }}$ </p>
-      <p> ${\textsf{\color{#D95F5F}  anything you see fit,}}$ ${\textsf{\color{#D14D4D}if yk me  }}$ </p>
+      <p> ${\textsf{\color{#D95F5F}  or any category you see fit,}}$ ${\textsf{\color{#D14D4D}if yk me   }}$ </p>
      
      
   </tr>
