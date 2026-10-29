@@ -178,7 +178,7 @@ alt="description" width="1000" />
   <tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-<a href="https://organz.atabook.org/"> <img src="https://i.postimg.cc/2S72CkzY/image-2026-08-04-022914713.png" alt="atabook" width="50"> <a href="https://pronouns.cc/@Goreboy"> <img src="https://i.postimg.cc/2jtdYqhB/image-2026-08-04-022817999.png" alt="Pronouns" width="50"> <a >
+<a href="https://organz.atabook.org/"> <img src="https://github.com/user-attachments/assets/635750c9-13ff-476d-9cff-670dba8b02f1" alt="atabook" width="50"> <a href="https://pronouns.cc/@Goreboy"> <img src="https://github.com/user-attachments/assets/88a8d1c7-f70f-4d2d-9749-b092095978e6" alt="Pronouns" width="50"> <a >
   </tr>
     <!-- Right Column: Bottom Status Line --> <td valign="top">
   <details>
@@ -201,3 +201,5 @@ alt="description" width="1000" />
 </table>
 <p align="center">
 </a>
+
+
