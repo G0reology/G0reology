@@ -68,7 +68,3 @@ if you have issues relating to this previous issue look for shino/crucified orga
 
 </details>
 
-</details>
- <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=#D14D4D&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=#D14D4D&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> <a href="https://github.com/Singer-of-the-newgenesis"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=#D14D4D&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Feng" alt="Typing SVG" /></a>
-
-
