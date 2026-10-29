@@ -1,32 +1,4 @@
 
-
-
-
-
-
-<p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23f9b4cf&right_color=%23ff9494&radius=0" alt="visitor badge"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
 $$\color{#813a9a} \text{ 'gen check all links b4 int'}$$
 
 
@@ -50,9 +22,9 @@ $$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top">
-      <p> ${\textsf{\color{#cfb3a2}   Kyren}}$ ${\textsf{\color{#c4a797}  /}}$ ${\textsf{\color{#bb9e8e}  Altair}}$
-      <p> ${\textsf{\color{#ad8f80}  17+}}$ ${\textsf{\color{#a28375}  Offtab usually}}$ </p>
-      <p> ${\textsf{\color{#98786b}  student/working}}$ ${\textsf{\color{#826255}  scottish/african　 ⊹}}$ </p>
+      <p> ${\textsf{\color{#E85151}   Kyren}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$
+      <p> ${\textsf{\color{#D95F5F}  17+}}$ ${\textsf{\color{#D14D4D}  Offtab usually}}$ </p>
+      <p> ${\textsf{\color{#B83D3D}  student/working}}$ ${\textsf{\color{#AB2626}  scottish/african　 ⊹}}$ </p>
   <tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
