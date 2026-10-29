@@ -162,4 +162,6 @@ alt="description" width="1000" />
 </p>
 
 
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/18ed1062-795a-44ae-a6c6-3eb3ea036095">
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=kitu&left_color=%23FDF4F4&right_color=%23F5B3C8&radius=0&height=15" alt="visitor badge" width="90" /></p>
+<p align="center" ><picture>
+
