@@ -7,7 +7,7 @@ $$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
 <div align="center">
 </tr>
   </table>
-  <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=813a9a&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
+  <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=B83D3D&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
 
 <p align="center">
@@ -16,7 +16,7 @@ $$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
     <!-- Left Column: Large Image Block -->
     <td rowspan="4" width="60%" valign="top">
      <p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%EB5959&right_color=%CC2D2D&radius=0" alt="visitor badge"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%E85151&right_color=%E86464&radius=0" alt="visitor badge"/>
 </p>
       <img src="https://github.com/user-attachments/assets/edbb9edc-602d-4f1b-9939-b7c15d0f8920" width="300">
     </td>
