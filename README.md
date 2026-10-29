@@ -62,8 +62,11 @@ $$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
 <summary>$${\color{##D14D4D} "Read."}$$ᐟ</summary>
 
 concerning allegations/claims of me[ when my github was organcest] copying peoples ponies, it has been cleared up.
-the person responsible for every claim is crucifiedorgan who i was friends and unfortunately we had similar styles of shading
+the person responsible for every claim is crucifiedorgan who i was friends with and unfortunately we had similar styles of shading
 if you have issues relating to this previous issue look for shino/crucified organ. do not involve me or my friends. ^_^
+
+if you do have any issues w me tho, contact me through my ata [links on the yuji stamps underneath my name/info or just check the links piled up in the corner] or discord if its very serious. : goreb0yz.
+tankyeww
 
 
 </details>
