@@ -9,7 +9,7 @@ alt="description" width="1000" />
 
 
 <p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_color=%23f9b4cf&right_color=%23ff9494&radius=0" alt="visitor badge"alt="visitor badge"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23f9b4cf&right_color=%23ff9494&radius=0" alt="visitor badge"/>
 </p>
 
 
