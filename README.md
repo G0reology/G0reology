@@ -162,7 +162,6 @@ alt="description" width="1000" />
 
 
 
-<img src="https://i.postimg.cc/dVGsNdQW/top.png" width="900">
 
 <p align="center">
 <table>
