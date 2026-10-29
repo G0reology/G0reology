@@ -42,9 +42,9 @@ $$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
   </tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-      <p> ${\textsf{\color{#cfb3a2}  titles i wld love to be }}$ ${\textsf{\color{#c4a797}  voted}}$ ${\textsf{\color{#bb9e8e}  for cuz im cool ok?}}$
-      <p> ${\textsf{\color{#ad8f80}  Characters: pts Noh, ronin beaufort,}}$ ${\textsf{\color{#a28375}  suna rintaro, tsugino haru or fluttershy }}$ </p>
-      <p> ${\textsf{\color{#ad8f80}  anything you see fit,}}$ ${\textsf{\color{#a28375} if yk me  }}$ </p>
+      <p> ${\textsf{\color{#ED7272}  titles i wld love to be }}$ ${\textsf{\color{#E86464}  voted}}$ ${\textsf{\color{#E85151}  for cuz im cool ok?}}$
+      <p> ${\textsf{\color{#B83D3D}  Characters: pts Noh, ronin beaufort,}}$ ${\textsf{\color{#D14D4D}  suna rintaro, tsugino haru or fluttershy }}$ </p>
+      <p> ${\textsf{\color{#D95F5F}  anything you see fit,}}$ ${\textsf{\color{#D14D4D} if yk me  }}$ </p>
      
      
   </tr>
@@ -59,7 +59,7 @@ $$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
   </a>
 </p>
 <details>
-<summary>$${\color{#813a9a} "Dni ꩜ ."}$$ᐟ</summary>
+<summary>$${\color{#813a9a} "Read b4 int ꩜ ."}$$ᐟ</summary>
 
 concerning allegations/claims of me[ when my github was organcest] copying peoples ponies, it has been cleared up.
 the person responsible for every claim is crucifiedorgan who i was friends and unfortunately we had similar styles of shading
