@@ -1,10 +1,6 @@
 
 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/84d47dbc-29b1-4ee3-bfd1-c22d2a584f01" 
-alt="description" width="1000" />
-</p>
 
 
 
@@ -16,12 +12,6 @@ alt="description" width="1000" />
 
 
 
-<p align="center">
-  <a href="https://organz.atabook.org/">
-    <img src="https://img.shields.io/badge/ATABOOK-F26DBC?style=for-the-badge&logo=Atabook&logoColor=FFFFFF">
-  </a>       <a href="https://pronouns.cc/@Goreboy">
-    <img src="https://img.shields.io/badge/PRONOUNS-813a9a?style=for-the-badge&logo=pronouns&logoColor=FFFFFF">
-  </a>
 
 
 
@@ -67,11 +57,6 @@ alt="description" width="150" />
 
 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypddj4cxdomrhjyvzl3meny2se&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9e9e9e&bar_color_cover=false">
-  </a>
-</p>
 
 
 
@@ -79,88 +64,24 @@ alt="description" width="150" />
 
 
 
-</details>
-
-<details>
-<summary>$${\color{#813a9a} "BYI .⋆♱"}$$  </summary>
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/ef390b25-364c-4478-b217-4824df0f06c2"
-alt="description" width="700" />
-</p>
 
 
-**i cannot belive i have to bring this up again** 
 
-if u accuse me i.e 'arent u a copy cat, goreology this, goreology that' i will cuss u out bro. Goreology[me] has done nothing
-
-you are looking for shino who we got involved w and was mistaken for. Omds are we slow pt? all 'proof' you have is rumors from rndm ppl
-and said ppl only have beef w shino[crucifiedorgan] 
-
-i wont tolerate this crap anymore not from some ignorant bitches pls get a life and let me be. 
-
-bloody hell..
 
 
   
-**Multiname user, feel free to call us any of my names irdc**
-  
-  my names could change on platforms but unless we tell you not to use the name idm what you call us,
-use more than one.
-
-
-**i don't get social cues so tone tags are appreciated though not required most times!**
-  
-**i AM NOT A NICE TO BE AROUND I REPEAT WE AM NOT NICE, bear with me**
-I has a lot of mental disorders [cluster b personality disorders] i will lash out or get mad
-easily but im not necessarily mad at you! i do try to control it but uh..yeh
-i dont feel the need to list them out tbh just keep that in mind
 
 
 
+$$\color{#813a9a} \text{ 'gen check all links b4 int'}$$
 
 
-**i am an avoidant person so if ww ignore you while online don't take it personally**
-Also note i am offtab alot whispers are prefered. This also includes removing you from our list.
-If i find you troublesome, tiring etc. i will not hesitate to show it/cut u off.
+$$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
 
-**my interests come across as violent in most media so if that makes you uncomfortable just dni or tell me so us don't mention it around you**
-Not anything illegal just some ppl can't handle some types of violence in media [i.e shows/games like blood c, Human construction site, zeno rmk] 
-
-Just respect me and i respect you yuh? gud gud!
-
-</details>
-
-<details>
-<summary>$${\color{#813a9a} "Dni ꩜ ."}$$ᐟ</summary>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/156f6dd6-a872-4bbd-94e3-0d1900335113" 
-alt="description" width="700" />
-</p>
-
-
-  
-basic DNI not strict tbh js use common sense. i block freely
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/b91e9d5a-9ca8-4b2c-afb6-34ba571a0917" 
-alt="description" width="700" />
-</p>
-
-
-</details>
- <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=F26DBC&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=F26DBC&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> <a href="https://github.com/Singer-of-the-newgenesis"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=F26DBC&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Feng" alt="Typing SVG" /></a>
-
-
-
-
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/18ed1062-795a-44ae-a6c6-3eb3ea036095"  
-alt="description" width="1000" />
-</p>
-
-
+<div align="center">
+</tr>
+  </table>
+  <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=813a9a&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
 
 <p align="center">
@@ -201,5 +122,24 @@ alt="description" width="1000" />
 </table>
 <p align="center">
 </a>
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypddj4cxdomrhjyvzl3meny2se&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9e9e9e&bar_color_cover=false">
+  </a>
+</p>
+<details>
+<summary>$${\color{#813a9a} "Dni ꩜ ."}$$ᐟ</summary>
+
+concerning allegations/claims of me[ when my github was organcest] copying peoples ponies, it has been cleared up.
+the person responsible for every claim is crucifiedorgan who i was friends and unfortunately we had similar styles of shading
+if you have issues relating to this previous issue look for shino/crucified organ. do not involve me or my friends. ^_^
+
+
+</details>
+
+</details>
+ <a href="https://github.com/Lo0nyGoon"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=F26DBC&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Aero!" alt="Typing SVG" /></a>  <a href="https://github.com/protectioncharm"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=F26DBC&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Bobcorn" alt="Typing SVG" /></a> <a href="https://github.com/Singer-of-the-newgenesis"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=F26DBC&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Feng" alt="Typing SVG" /></a>
 
 
