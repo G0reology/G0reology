@@ -59,7 +59,7 @@ $$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
   </a>
 </p>
 <details>
-<summary>$${\color{##D14D4D} "Read+b4+int+꩜ ."}$$ᐟ</summary>
+<summary>$${\color{##D14D4D} "Read."}$$ᐟ</summary>
 
 concerning allegations/claims of me[ when my github was organcest] copying peoples ponies, it has been cleared up.
 the person responsible for every claim is crucifiedorgan who i was friends and unfortunately we had similar styles of shading
