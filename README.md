@@ -193,8 +193,9 @@ alt="description" width="1000" />
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
       <p> ${\textsf{\color{#cfb3a2}  titles i wld love to be }}$ ${\textsf{\color{#c4a797}  voted}}$ ${\textsf{\color{#bb9e8e}  for cuz im cool ok?}}$
-      <p> ${\textsf{\color{#ad8f80}  Characters: pts Noh, ronin beaufort,}}$ ${\textsf{\color{#a28375}  suna rintaro, tsugino haru or fluttershy}}$ </p>
-      <p> ${\textsf{\color{#98786b}   anything else u see fit if yk me ^_^ }}$ ${\textsf{\color{#826255}  be tht c*h'r, friend, ponies etc}$ </p>
+      <p> ${\textsf{\color{#ad8f80}  Characters: pts Noh, ronin beaufort,}}$ ${\textsf{\color{#a28375}  suna rintaro, tsugino haru or fluttershy }}$ </p>
+      <p> ${\textsf{\color{#ad8f80}  anything you see fit,}}$ ${\textsf{\color{#a28375} if yk me  }}$ </p>
+     
      
   </tr>
 </table>
