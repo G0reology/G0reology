@@ -1,8 +1,8 @@
 
-$$\color{#813a9a} \text{ 'gen check all links b4 int'}$$
+$$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
 
 
-$$\color{#813a9a} \text{˚ Remaking straw again.‧°}$$
+$$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
 
 <div align="center">
 </tr>
