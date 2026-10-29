@@ -16,7 +16,7 @@ $$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
     <!-- Left Column: Large Image Block -->
     <td rowspan="4" width="60%" valign="top">
      <p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23f9b4cf&right_color=%23ff9494&radius=0" alt="visitor badge"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%EB5959&right_color=%CC2D2D&radius=0" alt="visitor badge"/>
 </p>
       <img src="https://github.com/user-attachments/assets/edbb9edc-602d-4f1b-9939-b7c15d0f8920" width="300">
     </td>
