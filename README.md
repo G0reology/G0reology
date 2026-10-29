@@ -193,7 +193,7 @@ alt="description" width="1000" />
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
 titles i wld love to be voted for cuz im cool ok?
-     Characters: pts Noh, ronin beaufort, suna rintaro, tsugino haru or fluttershy
+        Characters: pts Noh, ronin beaufort, suna rintaro, tsugino haru or fluttershy
      anything else u see fit if yk me ^_^ be tht c*h'r, friend, ponies etc
   </tr>
 </table>
