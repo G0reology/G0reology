@@ -13,9 +13,6 @@ alt="description" width="1000" />
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0RGANCEST&color=C780D9&label=YURI!&style=upper" alt="Vamps Counter" />
-</p>
 
 
 
@@ -164,6 +161,17 @@ alt="description" width="1000" />
 </p>
 
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=kitu&left_color=%23FDF4F4&right_color=%23F5B3C8&radius=0&height=15" alt="visitor badge" width="90" /></p>
-<p align="center" ><picture>
+
+<p align="center">
+<table>
+  <tr>
+    <!-- Left Column: Large Image Block -->
+    <td rowspan="4" width="60%" valign="top">
+      <img src="https://i.postimg.cc/CLzXKVWR/dtt.png" width="300">
+    </td>
+    <!-- Right Column: Profile Header Info -->
+    <td width="40%" valign="top"> 
+      <p> ${\textsf{\color{#cfb3a2}   ⊹　𝐌UALANI}}$ ${\textsf{\color{#c4a797}  ou}}$ ${\textsf{\color{#bb9e8e}  𝓢AE}}$
+      <p> ${\textsf{\color{#ad8f80}  19yo}}$ ${\textsf{\color{#a28375}  introverted}}$ </p>
+      <p> ${\textsf{\color{#98786b}  taken}}$ ${\textsf{\color{#826255}  hispanic　 ⊹}}$ </p>
 
