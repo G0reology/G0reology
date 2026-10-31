@@ -7,7 +7,7 @@ $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
 
 <img src="https://github.com/user-attachments/assets/0b04529a-e49d-40d6-ac8b-63c83a7798a7" width="1000">
 
-<img width="845" height="845" alt="222" src="https://github.com/user-attachments/assets/6e2e0993-642b-4354-9e8f-5d875cfa5ba0" />
+
 
 
 <div align="center">
@@ -31,7 +31,7 @@ $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top">
-      <p> ${\textsf{\color{#E85151}   Kyren}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$
+      <p> ${\textsf{\color{#E85151}   Kyren}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$  <img src="https://github.com/user-attachments/assets/6e2e0993-642b-4354-9e8f-5d875cfa5ba0" width="300">
       <p> ${\textsf{\color{#D95F5F}  17+}}$ ${\textsf{\color{#D14D4D}  Offtab usually}}$ </p>
       <p> ${\textsf{\color{#B83D3D}  student/working}}$ ${\textsf{\color{#AB2626}  scottish/african　 ⊹}}$ </p>
   <tr>
@@ -82,7 +82,7 @@ tankyeww
 
 
 </details>
-<img src="https://github.com/user-attachments/assets/23fd9ad2-54d4-49f3-a0d4-fb9157843f22" width="100"><img src="https://github.com/user-attachments/assets/6b3c26d3-0f9b-44c1-bc18-0bfed4417871" width="100">
+<img src="https://github.com/user-attachments/assets/23fd9ad2-54d4-49f3-a0d4-fb9157843f22" width="300"><img src="https://github.com/user-attachments/assets/6b3c26d3-0f9b-44c1-bc18-0bfed4417871" width="300">
 <img src="https://github.com/user-attachments/assets/5123d3c3-e66e-4e53-b974-e098aa2e6284" width="1000">
 
 
