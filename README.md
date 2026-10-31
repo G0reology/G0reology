@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6e2e0993-642b-4354-9e8f-5d875cfa5ba0" width="200"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display+&pause=1000&color=F77373&center=true&width=435&lines=I+don't+know+how+I'll+feel+when+I'm+dead+;but+I+don't+want+to;regret+the+way+I+lived+%5E_%5E" alt="Typing SVG" /></a>
+<img src="https://github.com/user-attachments/assets/6e2e0993-642b-4354-9e8f-5d875cfa5ba0" width="150"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display+&pause=1000&color=F77373&center=true&width=435&lines=I+don't+know+how+I'll+feel+when+I'm+dead+;but+I+don't+want+to;regret+the+way+I+lived+%5E_%5E" alt="Typing SVG" /></a>
 
 
 <img src="https://github.com/user-attachments/assets/c6fe7ce0-af0a-4baf-9cd1-166c3d4deaa4" width="1000">
