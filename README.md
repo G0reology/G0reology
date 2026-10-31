@@ -13,6 +13,7 @@ $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
   </table>
   <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=B83D3D&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
+<img src="https://github.com/user-attachments/assets/0f1213bd-f2b4-4b4f-977c-2c032c7584d1" width="400">
 
 <p align="center">
 <table>
@@ -56,6 +57,7 @@ $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
 <p align="center">
 </a>
 
+<img src="https://github.com/user-attachments/assets/2e00c1da-1d0a-4fe3-b90e-5adb1a818862" width="400">
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -75,11 +77,14 @@ tankyeww
 
 </details>
 
+<img src="https://github.com/user-attachments/assets/5123d3c3-e66e-4e53-b974-e098aa2e6284" width="1000">
 
-<img width="400" height="37" alt="11" src="https://github.com/user-attachments/assets/0f1213bd-f2b4-4b4f-977c-2c032c7584d1" />
-<img width="400" height="37" alt="33" src="https://github.com/user-attachments/assets/ed705865-3542-4c22-bc92-e0faa34b0222" />
-<img width="400" height="37" alt="44" src="https://github.com/user-attachments/assets/2e00c1da-1d0a-4fe3-b90e-5adb1a818862" />
-<img width="400" height="32" alt="55" src="https://github.com/user-attachments/assets/5123d3c3-e66e-4e53-b974-e098aa2e6284" />
+
+<img src="https://github.com/user-attachments/assets/c6fe7ce0-af0a-4baf-9cd1-166c3d4deaa4" width="1000">
+
+
+
+
 
 
 
