@@ -71,6 +71,8 @@
 <details>
 <summary>$${\color{##D14D4D} "Read."}$$ᐟ</summary>
 
+
+
 concerning allegations/claims of me[ when my github was organcest] copying peoples ponies, it has been cleared up.
 the person responsible for every claim is crucifiedorgan who i was friends with and unfortunately we had similar styles of shading
 if you have issues relating to this previous issue look for shino/crucified organ. do not involve me or my friends. ^_^
@@ -80,7 +82,7 @@ tankyeww
 
 
 </details>
-
+<img src="https://github.com/user-attachments/assets/23fd9ad2-54d4-49f3-a0d4-fb9157843f22" width="100"><img src="https://github.com/user-attachments/assets/6b3c26d3-0f9b-44c1-bc18-0bfed4417871" width="100">
 <img src="https://github.com/user-attachments/assets/5123d3c3-e66e-4e53-b974-e098aa2e6284" width="1000">
 
 
