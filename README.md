@@ -82,7 +82,7 @@ tankyeww
 
 
 </details>
-<img src="https://github.com/user-attachments/assets/23fd9ad2-54d4-49f3-a0d4-fb9157843f22" width="300"><img src="https://github.com/user-attachments/assets/6b3c26d3-0f9b-44c1-bc18-0bfed4417871" width="300">
+<img src="https://github.com/user-attachments/assets/23fd9ad2-54d4-49f3-a0d4-fb9157843f22" width="100"><img src="https://github.com/user-attachments/assets/6b3c26d3-0f9b-44c1-bc18-0bfed4417871" width="100">
 <img src="https://github.com/user-attachments/assets/5123d3c3-e66e-4e53-b974-e098aa2e6284" width="1000">
 
 
