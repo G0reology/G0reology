@@ -31,7 +31,7 @@ $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top">
-      <p> ${\textsf{\color{#E85151}   Kyren}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$  <img src="https://github.com/user-attachments/assets/6e2e0993-642b-4354-9e8f-5d875cfa5ba0" width="300">
+      <p> ${\textsf{\color{#E85151}   Kyren}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$ 
       <p> ${\textsf{\color{#D95F5F}  17+}}$ ${\textsf{\color{#D14D4D}  Offtab usually}}$ </p>
       <p> ${\textsf{\color{#B83D3D}  student/working}}$ ${\textsf{\color{#AB2626}  scottish/african　 ⊹}}$ </p>
   <tr>
@@ -43,7 +43,7 @@ $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
   <details>
   <summary>special mentions</summary>
   <p> </p>
-  <p> Val, aero, sabo[feng], himeno, riku, lotus, mimi, electra, Tokyo, axel, hayden, pearl, alex, ken + not in any order </p>
+  <p> Val, aero, sabo[feng], himeno, riku, lotus, mimi, electra, Tokyo, axel, hayden, pearl, alex, ken + not in any order <img src="https://github.com/user-attachments/assets/6e2e0993-642b-4354-9e8f-5d875cfa5ba0" width="90"> </p>
     </details>
     </td>
     </td>
