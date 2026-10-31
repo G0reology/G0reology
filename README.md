@@ -2,7 +2,6 @@
 $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
 
 
-$$\color{#BA3C3C} \text{˚ Remaking straw again.‧°}$$
 
 <div align="center">
 </tr>
