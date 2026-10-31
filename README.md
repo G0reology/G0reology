@@ -13,6 +13,8 @@ $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
   </table>
   <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=B83D3D&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
+  
+
 <img src="https://github.com/user-attachments/assets/0f1213bd-f2b4-4b4f-977c-2c032c7584d1" width="400">
 
 <p align="center">
