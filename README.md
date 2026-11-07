@@ -9,7 +9,7 @@
 
 $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$ 
 
-$$\color{#AB2626} \text{ 'Revamoing straw ;w;'}$$ 
+$$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$ 
 
 
 
