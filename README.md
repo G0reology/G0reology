@@ -9,6 +9,10 @@
 
 $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$ 
 
+$$\color{#AB2626} \text{ 'Revamoing straw ;w;'}$$ 
+
+
+
 <img src="https://github.com/user-attachments/assets/0b04529a-e49d-40d6-ac8b-63c83a7798a7" width="1000">
 
 
@@ -17,7 +21,7 @@ $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$
 <div align="center">
 </tr>
   </table>
-  <a href="https://goreboyshusband.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=B83D3D&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
+  <a href="https://goreyhugs.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=B83D3D&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
   
 
