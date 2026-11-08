@@ -102,9 +102,4 @@ tankyeww
 
 
 
-<img width="200" height="200" alt="iv-monochrome" src="https://github.com/user-attachments/assets/5c5df165-bb90-44a3-81bb-108d11a193fd" />
-
-
-
-
 
