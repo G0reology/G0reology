@@ -8,15 +8,15 @@
 <img src="https://github.com/user-attachments/assets/20b5a2a8-5982-4c53-aecc-20047e1497e6" width="1000">
 
 
-$$\color{#AB2626} \text{ 'I prefer being called Cael or pet online'}$$ 
+$$\color{#F77373} \text{ 'I prefer being called Cael or pet online'}$$ 
 
 
 <img src="https://github.com/user-attachments/assets/ebeaab7b-6209-4740-99dc-23a90c9da05f" width="1000">
 
 
-$$\color{#AB2626} \text{ 'gen check all links b4 int'}$$ 
+$$\color{#F77373} \text{ 'gen check all links b4 int'}$$ 
 
-$$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$ 
+$$\color{#F77373} \text{ 'Revamping straw ;w;'}$$ 
 
 
 
@@ -47,9 +47,9 @@ $$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top">
-      <p> ${\textsf{\color{#E85151}   Kyren}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$ 
+      <p> ${\textsf{\color{#F77373}   Kyren}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$ 
       <p> ${\textsf{\color{#D95F5F}  17+}}$ ${\textsf{\color{#D14D4D}  Offtab usually}}$ </p>
-      <p> ${\textsf{\color{#B83D3D}  student/working}}$ ${\textsf{\color{#AB2626}  scottish/Black　 ⊹}}$ </p>
+      <p> ${\textsf{\color{#F77373}  student/working}}$ ${\textsf{\color{#AB2626}  scottish/Black　 ⊹}}$ </p>
   <tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
@@ -67,9 +67,9 @@ $$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$
   </tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-      <p> ${\textsf{\color{#ED7272}  titles i wld love to be }}$ ${\textsf{\color{#E86464} voted}}$ ${\textsf{\color{#E85151}  for cuz im cool ok?}}$
+      <p> ${\textsf{\color{#F77373}  titles i wld love to be }}$ ${\textsf{\color{#E86464} voted}}$ ${\textsf{\color{#E85151}  for cuz im cool ok?}}$
       <p> ${\textsf{\color{#B83D3D}  Characters: pts Noh[HCS],}}$ ${\textsf{\color{#D14D4D} or tsugino haru }}$ </p>
-      <p> ${\textsf{\color{#D95F5F}  or any category you see fit,}}$ ${\textsf{\color{#D14D4D}if yk me   }}$ </p>
+      <p> ${\textsf{\color{#F77373}  or any category you see fit,}}$ ${\textsf{\color{#D14D4D}if yk me   }}$ </p>
      
 
 
@@ -86,7 +86,7 @@ $$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$
   </a>
 </p>
 <details>
-<summary>$${\color{##D14D4D} "Read."}$$ᐟ</summary>
+<summary>$${\color{#F77373} "Read."}$$ᐟ</summary>
 
 
 
