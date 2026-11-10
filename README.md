@@ -4,13 +4,14 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/c6fe7ce0-af0a-4baf-9cd1-166c3d4deaa4" width="1000">
+
+<img src="https://github.com/user-attachments/assets/20b5a2a8-5982-4c53-aecc-20047e1497e6" width="1000">
 
 
 $$\color{#AB2626} \text{ 'I prefer being called Cael or pet online'}$$ 
 
 
-<img src="https://github.com/user-attachments/assets/b5e43dbe-1dc9-4b17-a7d7-6ecf00431038" width="1000">
+<img src="https://github.com/user-attachments/assets/ebeaab7b-6209-4740-99dc-23a90c9da05f" width="1000">
 
 
 $$\color{#AB2626} \text{ 'gen check all links b4 int'}$$ 
@@ -19,8 +20,7 @@ $$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$
 
 
 
-<img src="https://github.com/user-attachments/assets/0b04529a-e49d-40d6-ac8b-63c83a7798a7" width="1000">
-
+<img src="https://github.com/user-attachments/assets/2c0264ca-9835-4389-b89c-62c077479afe" width="1000">
 
 
 
@@ -31,7 +31,9 @@ $$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$
 
   
 
-<img src="https://github.com/user-attachments/assets/0f1213bd-f2b4-4b4f-977c-2c032c7584d1" width="400">
+
+<img src="https://github.com/user-attachments/assets/6c7925f6-4a7b-4ef0-87a5-f43621fbb04d" width="400">
+
 
 <p align="center">
 <table>
@@ -41,7 +43,7 @@ $$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$
      <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23d96d6d&right_color=%23ffb3b3&logo=react&radius=0" alt="visitor badge"/>
 </p>
-      <img src="https://github.com/user-attachments/assets/edbb9edc-602d-4f1b-9939-b7c15d0f8920" width="300">
+      <img src="https://github.com/user-attachments/assets/40c109a1-1fa7-4abe-b1ff-4597396ccb13" width="300">
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top">
