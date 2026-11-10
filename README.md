@@ -52,8 +52,10 @@ $$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$
       <p> ${\textsf{\color{#B83D3D}  student/working}}$ ${\textsf{\color{#AB2626}  scottish/Black　 ⊹}}$ </p>
   <tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
+
+
     <td valign="top">
-<a href="https://organz.atabook.org/"> <img src="https://github.com/user-attachments/assets/635750c9-13ff-476d-9cff-670dba8b02f1" alt="atabook" width="90"> <a href="https://pronouns.cc/@Goreboy"> <img src="https://github.com/user-attachments/assets/88a8d1c7-f70f-4d2d-9749-b092095978e6" alt="Pronouns" width="90"> <a >
+<a href="https://organz.atabook.org/"> <img src="https://github.com/user-attachments/assets/8862593c-92ca-4810-8d62-24a842443ce3" alt="atabook" width="90"> <a href="https://pronouns.cc/@Goreboy"> <img src="https://github.com/user-attachments/assets/fec25c44-1956-4bb8-bc5f-1bab664f9e1d" alt="Pronouns" width="90"> <a >
   </tr>
     <!-- Right Column: Bottom Status Line --> <td valign="top">
   <details>
