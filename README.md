@@ -71,13 +71,14 @@ $$\color{#AB2626} \text{ 'Revamping straw ;w;'}$$
       <p> ${\textsf{\color{#B83D3D}  Characters: pts Noh[HCS],}}$ ${\textsf{\color{#D14D4D} or tsugino haru }}$ </p>
       <p> ${\textsf{\color{#D95F5F}  or any category you see fit,}}$ ${\textsf{\color{#D14D4D}if yk me   }}$ </p>
      
-     
+
+
   </tr>
 </table>
 <p align="center">
 </a>
 
-<img src="https://github.com/user-attachments/assets/2e00c1da-1d0a-4fe3-b90e-5adb1a818862" width="400">
+<img src="https://github.com/user-attachments/assets/03885ab0-4453-4716-a869-10d3153a5ad6" width="400">
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -98,11 +99,11 @@ tankyeww
 
 
 </details>
-<img src="https://github.com/user-attachments/assets/23fd9ad2-54d4-49f3-a0d4-fb9157843f22" width="100"><img src="https://github.com/user-attachments/assets/6b3c26d3-0f9b-44c1-bc18-0bfed4417871" width="100">
-<img src="https://github.com/user-attachments/assets/5123d3c3-e66e-4e53-b974-e098aa2e6284" width="1000">
+<img src="https://github.com/user-attachments/assets/513c75cf-fedd-49df-887f-1410dc634c0f" width="100"><img src="https://github.com/user-attachments/assets/56edc2b5-7269-4ced-b473-39bce9a74415" width="100">
+<img src="https://github.com/user-attachments/assets/801960a9-4da9-4c78-bdec-bb24ea749065" width="1000">
 
 
-<img src="https://github.com/user-attachments/assets/c6fe7ce0-af0a-4baf-9cd1-166c3d4deaa4" width="1000">
+<img src="https://github.com/user-attachments/assets/7cbd214d-af5e-4e49-b45d-5029ce7256c9" width="1000">
 
 
 
