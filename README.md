@@ -108,7 +108,7 @@ tankyeww
 </a>
 </p>
 <details>
-<summary>$${\color{#F77373} "Pt+nominations."}$$ᐟ</summary>
+<summary>$${\color{#F77373} "Nominations."}$$ᐟ</summary>
 
  Awards : [My trio](https://github.com/pt-friendships) 
           [Me and hb](https://github.com/pt-ship-nominations)
