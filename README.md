@@ -68,8 +68,8 @@ $$\color{#F77373} \text{ 'Revamping straw ;w;'}$$
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
       <p> ${\textsf{\color{#F77373}  titles i wld love to be }}$ ${\textsf{\color{#E86464} voted}}$ ${\textsf{\color{#E85151}  for cuz im cool ok?}}$
-      <p> ${\textsf{\color{#B83D3D}  Characters: pts Noh[HCS],}}$ ${\textsf{\color{#D14D4D} or tsugino haru }}$ </p>
-      <p> ${\textsf{\color{#F77373}  or any category you see fit,}}$ ${\textsf{\color{#D14D4D}if yk me   }}$ </p>
+      <p> ${\textsf{\color{#B83D3D} Awards : [My trio](https://github.com/pt-friendships) }}$ </p>
+      
      
 
 
