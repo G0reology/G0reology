@@ -68,7 +68,7 @@ $$\color{#F77373} \text{ 'Revamping straw ;w;'}$$
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
       <p> ${\textsf{\color{#F77373}  titles i wld love to be }}$ ${\textsf{\color{#E86464} voted}}$ ${\textsf{\color{#E85151}  for cuz im cool ok?}}$
-      <p> ${\textsf{\color{#B83D3D} Awards : [My trio](https://github.com/pt-friendships) }}$ </p>
+      Awards : [My trio](https://github.com/pt-friendships) 
       
      
 
