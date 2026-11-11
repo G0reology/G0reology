@@ -68,7 +68,7 @@ $$\color{#F77373} \text{ 'Revamping straw ;w;'}$$
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
       <p> ${\textsf{\color{#F77373}  titles i wld love to be }}$ ${\textsf{\color{#E86464} voted}}$ ${\textsf{\color{#E85151}  for cuz im cool ok?}}$
-      Awards : [My trio](https://github.com/pt-friendships) 
+     
       
      
 
@@ -105,5 +105,15 @@ tankyeww
 
 <img src="https://github.com/user-attachments/assets/7cbd214d-af5e-4e49-b45d-5029ce7256c9" width="1000">
 
+</a>
+</p>
+<details>
+<summary>$${\color{#F77373} "Read."}$$ᐟ</summary>
+
+ Awards : [My trio](https://github.com/pt-friendships) 
+
+
+
+</details>
 
 
