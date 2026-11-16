@@ -67,7 +67,7 @@ $$\color{#F77373} \text{ 'Revamping straw ;w;'}$$
   </tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-      <p> ${\textsf{\color{#F77373}  titles i wld love to be }}$ ${\textsf{\color{#E86464} voted}}$ ${\textsf{\color{#E85151}  for cuz im cool ok?}}$
+      <p> ${\textsf{\color{#F77373} note im always offtab}}$ ${\textsf{\color{#E86464} voted}}$ ${\textsf{\color{#E85151} do int anytime tho i love making friends }}$
      
       
      
