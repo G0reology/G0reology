@@ -47,7 +47,7 @@ $$\color{#F77373} \text{ 'Revamping straw ;w;'}$$
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top">
-      <p> ${\textsf{\color{#F77373}   Kyren}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$ 
+      <p> ${\textsf{\color{#F77373}  Casino}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$ 
       <p> ${\textsf{\color{#D95F5F}  17+}}$ ${\textsf{\color{#D14D4D}  Offtab usually}}$ </p>
       <p> ${\textsf{\color{#F77373}  student/working}}$ ${\textsf{\color{#AB2626}  scottish/Black　 ⊹}}$ </p>
   <tr>
