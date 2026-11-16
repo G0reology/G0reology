@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/20b5a2a8-5982-4c53-aecc-20047e1497e6" width="1000">
 
 
-$$\color{#F77373} \text{ 'i go by Cael or pet online'}$$ 
+$$\color{#F77373} \text{ 'guess my favorite charcter guys'}$$ 
 
 
 <img src="https://github.com/user-attachments/assets/ebeaab7b-6209-4740-99dc-23a90c9da05f" width="1000">
