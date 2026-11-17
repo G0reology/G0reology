@@ -1,14 +1,12 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f7cf9c&width=435&lines=Stop!+Let+me+explain+the+situation;Everybody+hatin%E2%80%B2+for+the+same+reason;Attempted+to+mingle%2C+she+said+she+was+single;she+said+she+was+single;And+I'm+just+a+nice+guy" alt="Typing SVG" /></a>
+
 
 
 <img src="https://github.com/user-attachments/assets/ab90114f-ff33-4889-85fd-909da0483eac" alt="baku" width="290" height="auto" align="left" />
 
 
 
-
-
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f7cf9c&width=435&lines=Stop!+Let+me+explain+the+situation;Everybody+hatin%E2%80%B2+for+the+same+reason;Attempted+to+mingle%2C+she+said+she+was+single;she+said+she+was+single;And+I'm+just+a+nice+guy" alt="Typing SVG" /></a>
 
 
 
