@@ -52,6 +52,18 @@ ${\textsf{\color{#F77373} Nohs only pt }}$ ${\textsf{\color{#E86464} fan}}$ 
   <p> </p>
   <p> Val, aero, sabo[feng], himeno, riku, lotus, mimi, electra, Churchy, axel, hayden, pearl, alex, ken, eiko, kuro, ares, pixie + not in any order 
     </details>
+     </a>
+     
+</p>
+<details>
+<summary>$${\color{#F77373} "Nominations."}$$ᐟ</summary>
+
+ Awards : [My trio](https://github.com/pt-friendships) 
+          [Me and hb](https://github.com/pt-ship-nominations)
+
+
+
+</details>
     </td>
     </td>
   </tr>
