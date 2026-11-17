@@ -21,8 +21,7 @@ $$\color{#F77373} \text{ 'Revamping straw ;w;'}$$
 
 
 
-<img src="https://github.com/user-attachments/assets/2c0264ca-9835-4389-b89c-62c077479afe" width="1000">
-
+<img src="https://github.com/user-attachments/assets/a6e3b013-3294-40f0-a71f-70ad3de6e8a3" width="1000">
 
 
 <div align="center">
