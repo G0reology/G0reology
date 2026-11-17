@@ -48,9 +48,9 @@ ${\textsf{\color{#F77373} Nohs only pt }}$ ${\textsf{\color{#E86464} fan}}$ 
   </tr>
     <!-- Right Column: Bottom Status Line --> <td valign="top">
   <details>
-  <summary>special mentions</summary>
+  <summary>Lovemail</summary>
   <p> </p>
-  <p> Val, aero, sabo[feng], himeno, riku, lotus, mimi, electra, Churchy, axel, hayden, pearl, alex, ken, eiko, kuro, ares, pixie + not in any order <img src="https://github.com/user-attachments/assets/6e2e0993-642b-4354-9e8f-5d875cfa5ba0" width="90"> </p>
+  <p> Val, aero, sabo[feng], himeno, riku, lotus, mimi, electra, Churchy, axel, hayden, pearl, alex, ken, eiko, kuro, ares, pixie + not in any order 
     </details>
     </td>
     </td>
