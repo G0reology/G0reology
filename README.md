@@ -73,15 +73,12 @@ ${\textsf{\color{#F77373} Nohs only pt }}$ ${\textsf{\color{#E86464} fan}}$ 
       <p> ${\textsf{\color{#F77373} note im always }}$ ${\textsf{\color{#E86464} offtab}}$ ${\textsf{\color{#E85151} do int anytime tho i love making friends }}$
      
       
-     
-
-
   </tr>
 </table>
 <p align="center">
 </a>
 
-<img src="https://github.com/user-attachments/assets/03885ab0-4453-4716-a869-10d3153a5ad6" width="400">
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -99,25 +96,5 @@ if you have issues relating to this previous issue look for shino/crucified orga
 
 if you do have any issues w me tho, contact me through my ata [links on the yuji stamps underneath my name/info or just check the links piled up in the corner] or discord if its very serious. : goreb0yz.
 tankyeww
-
-
-</details>
-<img src="https://github.com/user-attachments/assets/513c75cf-fedd-49df-887f-1410dc634c0f" width="100"><img src="https://github.com/user-attachments/assets/56edc2b5-7269-4ced-b473-39bce9a74415" width="100">
-<img src="https://github.com/user-attachments/assets/801960a9-4da9-4c78-bdec-bb24ea749065" width="1000">
-
-
-<img src="https://github.com/user-attachments/assets/7cbd214d-af5e-4e49-b45d-5029ce7256c9" width="1000">
-
-</a>
-</p>
-<details>
-<summary>$${\color{#F77373} "Nominations."}$$ᐟ</summary>
-
- Awards : [My trio](https://github.com/pt-friendships) 
-          [Me and hb](https://github.com/pt-ship-nominations)
-
-
-
-</details>
 
 
