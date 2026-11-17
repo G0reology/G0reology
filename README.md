@@ -11,8 +11,8 @@
 <img src="https://github.com/user-attachments/assets/ab90114f-ff33-4889-85fd-909da0483eac" alt="baku" width="290" height="auto" align="left" />
 
 <p align="left">
-$${\color{#f7cf9c} "If all you do is look down on people"}$$
-$${\color{#f7cf9c} " you will never see your own weakness."}$$
+$${\color{#f7cf9c} "If + all you do is look down on people"}$$
+$${\color{#f7cf9c} "you will never see your own weakness."}$$
 
 
 
