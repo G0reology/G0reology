@@ -1,7 +1,4 @@
 
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/179a1d41-04f2-4082-9fc7-4b21d5457bbf" width= "1000"; height: auto;" />
-
 
 <img src="https://github.com/user-attachments/assets/ab90114f-ff33-4889-85fd-909da0483eac" alt="baku" width="290" height="auto" align="left" />
 
@@ -18,7 +15,7 @@
 <div align="center">
 </tr>
   </table>
-  <a href="https://goreyhugs.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=B83D3D&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
+  <a href="https://goreyhugs.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=f7cf9c&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
   
 
