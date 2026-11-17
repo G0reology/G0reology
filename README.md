@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://github.com/user-attachments/assets/179a1d41-04f2-4082-9fc7-4b21d5457bbf" width="1000">
+ <img src="https://github.com/user-attachments/assets/179a1d41-04f2-4082-9fc7-4b21d5457bbf" width="1000" height="300" >
 
  <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=08917c&right_color=cdff87&logo=react&radius=0" alt="visitor badge"/>
