@@ -11,19 +11,8 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6f8cabb1-4b2d-43f8-95c6-0a012ba689be" width="100"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display+&pause=1000&color=F77373&center=true&width=435&lines=I+don't+know+how+I'll+feel+when+I'm+dead+;but+I+don't+want+to;regret+the+way+I+lived+%5E_%5E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AA45D&width=435&lines=Stop!+Let+me+explain+the+situation;Everybody+hatin%E2%80%B2+for+the+same+reason;Attempted+to+mingle%2C+she+said+she+was+single;she+said+she+was+single;And+I'm+just+a+nice+guy" alt="Typing SVG" /></a>
 
-
-
-
-
-<img src="https://github.com/user-attachments/assets/20b5a2a8-5982-4c53-aecc-20047e1497e6" width="1000">
-
-
-$$\color{#F77373} \text{ 'guess my favorite charcter guys'}$$ 
-
-
-<img src="https://github.com/user-attachments/assets/ebeaab7b-6209-4740-99dc-23a90c9da05f" width="1000">
 
 
 $$\color{#F77373} \text{ 'gen check all links b4 int'}$$ 
@@ -44,7 +33,6 @@ $$\color{#F77373} \text{ 'Revamping straw ;w;'}$$
   
 
 
-<img src="https://github.com/user-attachments/assets/6c7925f6-4a7b-4ef0-87a5-f43621fbb04d" width="400">
 
 
 <p align="center">
