@@ -1,3 +1,15 @@
+ <p align="center">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23d96d6d&right_color=%23ffb3b3&logo=react&radius=0" alt="visitor badge"/>
+</p>
+
+
+
+
+
+
+
+
+
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6f8cabb1-4b2d-43f8-95c6-0a012ba689be" width="100"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display+&pause=1000&color=F77373&center=true&width=435&lines=I+don't+know+how+I'll+feel+when+I'm+dead+;but+I+don't+want+to;regret+the+way+I+lived+%5E_%5E" alt="Typing SVG" /></a>
 
