@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AA45D&width=435&lines=Stop!+Let+me+explain+the+situation;Everybody+hatin%E2%80%B2+for+the+same+reason;Attempted+to+mingle%2C+she+said+she+was+single;she+said+she+was+single;And+I'm+just+a+nice+guy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f7cf9c&width=435&lines=Stop!+Let+me+explain+the+situation;Everybody+hatin%E2%80%B2+for+the+same+reason;Attempted+to+mingle%2C+she+said+she+was+single;she+said+she+was+single;And+I'm+just+a+nice+guy" alt="Typing SVG" /></a>
 
 
 
@@ -37,13 +37,13 @@
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top">
-      <p> ${\textsf{\color{#F77373}  Casino}}$ ${\textsf{\color{#E86464}  /}}$ ${\textsf{\color{#ED7272}  Altair}}$ 
-      <p> ${\textsf{\color{#D95F5F}  17+}}$ ${\textsf{\color{#D14D4D}  Offtab usually}}$ </p>
-      <p> ${\textsf{\color{#F77373}  student/working}}$ ${\textsf{\color{#AB2626}  scottish/Black　 ⊹}}$ </p>
+      <p> ${\textsf{\color{#f7cf9c}  Casino}}$ ${\textsf{\color{#Ef7cf9c}  /}}$ ${\textsf{\color{#f7cf9c}  Altair}}$ 
+      <p> ${\textsf{\color{#f7cf9c}  17+}}$ ${\textsf{\color{#f7cf9c}  Offtab usually}}$ </p>
+      <p> ${\textsf{\color{#f7cf9c}  student/working}}$ ${\textsf{\color{#f7cf9c}  scottish/Black　 ⊹}}$ </p>
   <tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-${\textsf{\color{#F77373} Nohs only pt }}$ ${\textsf{\color{#E86464} fan}}$ ${\textsf{\color{#E85151} as far as ik }}$
+${\textsf{\color{#f7cf9c} Nohs only pt }}$ ${\textsf{\color{#f7cf9c} fan}}$ ${\textsf{\color{#f7cf9c} as far as ik }}$
      
   </tr>
     <!-- Right Column: Bottom Status Line --> <td valign="top">
@@ -56,7 +56,7 @@ ${\textsf{\color{#F77373} Nohs only pt }}$ ${\textsf{\color{#E86464} fan}}$ 
      
 </p>
 <details>
-<summary>$${\color{#F77373} "Nominations."}$$ᐟ</summary>
+<summary>$${\color{#f7cf9c} "Nominations."}$$ᐟ</summary>
 
  Awards : [My trio](https://github.com/pt-friendships) 
           [Me and hb](https://github.com/pt-ship-nominations)
@@ -70,7 +70,7 @@ ${\textsf{\color{#F77373} Nohs only pt }}$ ${\textsf{\color{#E86464} fan}}$ 
   </tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-      <p> ${\textsf{\color{#F77373} note im always }}$ ${\textsf{\color{#E86464} offtab}}$ ${\textsf{\color{#E85151} do int anytime tho i love making friends }}$
+      <p> ${\textsf{\color{#f7cf9c} note im always }}$ ${\textsf{\color{#f7cf9c} offtab}}$ ${\textsf{\color{#f7cf9c} do int anytime tho i love making friends }}$
      
       
   </tr>
@@ -86,7 +86,7 @@ ${\textsf{\color{#F77373} Nohs only pt }}$ ${\textsf{\color{#E86464} fan}}$ 
   </a>
 </p>
 <details>
-<summary>$${\color{#F77373} "Read."}$$ᐟ</summary>
+<summary>$${\color{#f7cf9c} "Read."}$$ᐟ</summary>
 
 
 
