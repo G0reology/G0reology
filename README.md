@@ -37,31 +37,13 @@
 </p>
       <img src="https://github.com/user-attachments/assets/729c1eb2-4fd3-4d91-b3f2-720d15f3adf4" width="300">
     </td>
-    <!-- Right Column: Profile Header Info -->
-    <td width="40%" valign="top">
-      <p> ${\textsf{\color{#f7cf9c}  Casino}}$ ${\textsf{\color{#Ef7cf9c}  /}}$ ${\textsf{\color{#f7cf9c}  Altair}}$ 
-      <p> ${\textsf{\color{#f7cf9c}  17+}}$ ${\textsf{\color{#f7cf9c}  Offtab usually}}$ </p>
-      <p> ${\textsf{\color{#f7cf9c}  student/working}}$ ${\textsf{\color{#f7cf9c}  scottish/Black　 ⊹}}$ </p>
-  
-     
-</p>
-<details>
-<summary>$${\color{#f7cf9c} "Nominations."}$$ᐟ</summary>
-
- Awards : [My trio](https://github.com/pt-friendships) 
-          [Me and hb](https://github.com/pt-ship-nominations)
-
-
-
-</details>
     </td>
     </td>
   </tr>
   </tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-      <p> ${\textsf{\color{#f7cf9c} note im always }}$ ${\textsf{\color{#f7cf9c} offtab}}$ ${\textsf{\color{#f7cf9c} do int anytime tho i love making friends }}$
-     
+   
       
   </tr>
 </table>
@@ -87,4 +69,12 @@ if you have issues relating to this previous issue look for shino/crucified orga
 if you do have any issues w me tho, contact me through my ata [links on the yuji stamps underneath my name/info or just check the links piled up in the corner] or discord if its very serious. : goreb0yz.
 tankyeww
 
+<details>
+<summary>$${\color{#f7cf9c} "Nominations."}$$ᐟ</summary>
 
+ Awards : [My trio](https://github.com/pt-friendships) 
+          [Me and hb](https://github.com/pt-ship-nominations)
+
+
+
+</details>
