@@ -3,11 +3,6 @@
   <img src="https://github.com/user-attachments/assets/179a1d41-04f2-4082-9fc7-4b21d5457bbf" width= "1000"; height: auto;" />
 
 
- <p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=08917c&right_color=cdff87&logo=react&radius=0" alt="visitor badge"/>
-</p>
-
-
 <img src="https://github.com/user-attachments/assets/ab90114f-ff33-4889-85fd-909da0483eac" alt="baku" width="290" height="auto" align="left" />
 
 
@@ -38,7 +33,7 @@
      <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23d96d6d&right_color=%23ffb3b3&logo=react&radius=0" alt="visitor badge"/>
 </p>
-      <img src="https://github.com/user-attachments/assets/40c109a1-1fa7-4abe-b1ff-4597396ccb13" width="300">
+      <img src="https://github.com/user-attachments/assets/729c1eb2-4fd3-4d91-b3f2-720d15f3adf4" width="300">
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top">
