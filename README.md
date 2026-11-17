@@ -32,9 +32,6 @@
   <tr>
     <!-- Left Column: Large Image Block -->
     <td rowspan="4" width="60%" valign="top">
-     <p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23d96d6d&right_color=%23ffb3b3&logo=react&radius=0" alt="visitor badge"/>
-</p>
       <img src="https://github.com/user-attachments/assets/729c1eb2-4fd3-4d91-b3f2-720d15f3adf4" width="300">
     
   
