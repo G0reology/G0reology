@@ -1,3 +1,10 @@
+
+<p align="center">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23d96d6d&right_color=%23ffb3b3&logo=react&radius=0" alt="visitor badge"/>
+
+
+
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f7cf9c&width=435&lines=Stop!+Let+me+explain+the+situation;Everybody+hatin%E2%80%B2+for+the+same+reason;Attempted+to+mingle%2C+she+said+she+was+single;she+said+she+was+single;And+I'm+just+a+nice+guy" alt="Typing SVG" /></a>
 
@@ -35,19 +42,7 @@
       <p> ${\textsf{\color{#f7cf9c}  Casino}}$ ${\textsf{\color{#Ef7cf9c}  /}}$ ${\textsf{\color{#f7cf9c}  Altair}}$ 
       <p> ${\textsf{\color{#f7cf9c}  17+}}$ ${\textsf{\color{#f7cf9c}  Offtab usually}}$ </p>
       <p> ${\textsf{\color{#f7cf9c}  student/working}}$ ${\textsf{\color{#f7cf9c}  scottish/Black　 ⊹}}$ </p>
-  <tr>
-  <!-- Right Column: Small Meme / Sub-image Block -->
-    <td valign="top">
-${\textsf{\color{#f7cf9c} Nohs only pt }}$ ${\textsf{\color{#f7cf9c} fan}}$ ${\textsf{\color{#f7cf9c} as far as ik }}$
-     
-  </tr>
-    <!-- Right Column: Bottom Status Line --> <td valign="top">
-  <details>
-  <summary>Lovemail</summary>
-  <p> </p>
-  <p> Val, aero, sabo[feng], himeno, riku, lotus, mimi, electra, Churchy, axel, hayden, pearl, alex, ken, eiko, kuro, ares, pixie + not in any order 
-    </details>
-     </a>
+  
      
 </p>
 <details>
