@@ -9,6 +9,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5013&pause=998&color=F7DAAA&center=true&width=435&lines=%22Oh...+i+think;you're+holding;the+heart+of+mine;Squeeze+it+apart;thats+fine%3F%22" alt="Typing SVG" /></a>
 
 <img src="https://github.com/user-attachments/assets/ab90114f-ff33-4889-85fd-909da0483eac" alt="baku" width="290" height="auto" align="left" />
+
+<p align="left">
 $${\color{#f7cf9c} "If all you do is look down on people"}$$
 $${\color{#f7cf9c} " you will never see your own weakness."}$$
 
