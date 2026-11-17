@@ -15,15 +15,6 @@
 
 
 
-$$\color{#F77373} \text{ 'gen check all links b4 int'}$$ 
-
-$$\color{#F77373} \text{ 'Revamping straw ;w;'}$$ 
-
-
-
-<img src="https://github.com/user-attachments/assets/a6e3b013-3294-40f0-a71f-70ad3de6e8a3" width="1000">
-
-
 <div align="center">
 </tr>
   </table>
