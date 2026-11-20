@@ -39,32 +39,20 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
       <img src="https://github.com/user-attachments/assets/9e83ace5-c7ac-43f5-9b59-8aecab4fdb26" width="300">
     
   
-  </tr>
-  </tr>
- 
+
    
       
   </tr>
 </table>
-<p align="center">
-</a>
+#
+
+  <table>
+              <td>
+<a href="https://fluffle.cc/archiver">BYI</a>ㅤㅤ<a href="https://kaliningrad-oblast.atabook.org">ATA</a>ㅤㅤ<a href="https://pronouns.cc/@ARC">PRNS</a>ㅤㅤ<a href="https://r7.whiteboardfox.com/gallery/@KALININGRAD_OBLAST">GALLERY</a>
+              </td>
+       </table>
 
 
-<p align="center">
-<table>
-  <tr>
-    <!-- Left Column: Large Image Block -->
-    <td rowspan="4" width="60%" valign="top">
-      [Atabook](https://organz.atabook.org/)
-    
-  
-  </tr>
-  </tr>
- 
-   
-      
-  </tr>
-</table>
 
 
 <p align="center">
