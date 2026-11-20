@@ -21,10 +21,7 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
 
 
 
-<div align="center">
-</tr>
-  </table>
-  <a href="https://goreyhugs.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=99d6c2&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
+
 
   
 
@@ -44,11 +41,11 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
       
   </tr>
 </table>
-#
+
 
   <table>
               <td>
-<a href="https://fluffle.cc/archiver">BYI</a>ㅤㅤ<a href="https://kaliningrad-oblast.atabook.org">ATA</a>ㅤㅤ<a href="https://pronouns.cc/@ARC">PRNS</a>ㅤㅤ<a href="https://r7.whiteboardfox.com/gallery/@KALININGRAD_OBLAST">GALLERY</a>
+<a href="https://organz.atabook.org/">ATA</a>ㅤㅤ<a href="https://pronouns.cc/@Goreboy">PRONOUNS</a>ㅤㅤ<a href="https://goreyhugs.straw.page">STRAW</a>
               </td>
        </table>
 
