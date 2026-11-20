@@ -42,7 +42,7 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
   </tr>
 </table>
 
-
+  <p align="right">
   <table>
               <td>
 <a href="https://organz.atabook.org/">ATA</a>ㅤㅤ<a href="https://pronouns.cc/@Goreboy">PRONOUNS</a>ㅤㅤ<a href="https://goreyhugs.straw.page">STRAW</a>
