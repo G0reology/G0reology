@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5013&pause=998&color=F7DAAA&center=true&width=435&lines=%22Oh...+i+think;you're+holding;the+heart+of+mine;Squeeze+it+apart;thats+fine%3F%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5013&pause=998&color=dfc3cf&center=true&width=435&lines=%22Oh...+i+think;you're+holding;the+heart+of+mine;Squeeze+it+apart;thats+fine%3F%22" alt="Typing SVG" /></a>
 
 <img src="https://github.com/user-attachments/assets/f7dc3627-6ae5-46b2-a5fb-3b158cfe799a" alt="baku" width="290" height="auto" align="left" />
 
@@ -12,11 +12,11 @@
 
 
 <p align="left">
-$$\color{#f7cf9c} \text{˚ If all you do is look down on people°}$$
-$$\color{#f7cf9c} \text{˚you will never see your own weakness°}$$
-$$\color{#f7cf9c} \text{˚ because man fears what breaks him°}$$
-$$\color{#f7cf9c} \text{˚ and tends to look for ways°}$$
-$$\color{#f7cf9c} \text{˚ to break others°}$$
+$$\color{#99d6c2} \text{˚ If all you do is look down on people°}$$
+$$\color{#dfc3cf} \text{˚you will never see your own weakness°}$$
+$$\color{#99d6c2} \text{˚ because man fears what breaks him°}$$
+$$\color{#dfc3cf} \text{˚ and tends to look for ways°}$$
+$$\color{#99d6c2} \text{˚ to break others°}$$
 
 
 
