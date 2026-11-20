@@ -24,7 +24,7 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
 <div align="center">
 </tr>
   </table>
-  <a href="https://goreyhugs.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=f7cf9c&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
+  <a href="https://goreyhugs.straw.page"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=20&duration=1000&pause=&color=#99d6c2&center=true&vCenter=true&repeat=false&width=260&height=55&lines=STRAWPAGE" alt="Typing SVG" /></a>
 
   
 
@@ -69,6 +69,10 @@ if you do have any issues w me tho, contact me through my ata [links on the yuji
 tankyeww
 
 <details>
+
+
+
+  
 <summary>$${\color{#f7cf9c} "Nominations."}$$ᐟ</summary>
 
  Awards : [My trio](https://github.com/pt-friendships) 
