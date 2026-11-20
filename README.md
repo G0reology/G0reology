@@ -66,6 +66,22 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
 </p>
 
 
+</td>
+</table>
+<table align="left">
+<td>
+<details align="center">
+<summary>$\color{#99d6c2}}{\textsf{ㅤNomination}}$</summary>
+<a href="https://github.com/pt-friendships">Pt-Friendships</a>ㅤㅤ<a href="https://github.com/pt-ship-nominations">pt-ship-nominations</a></a>
+  </details>
+</td>
+</table>
+</div>
+<br>
+</p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
