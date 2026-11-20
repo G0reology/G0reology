@@ -53,16 +53,13 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
     
   </tr>
 
-
-  <p align="right">
-  <table>
-              <td>
-              <summary>$${\color{#f7cf9c} "Nominations."}$$ᐟ</summary>
-
- Awards : [My trio](https://github.com/pt-friendships) 
-          [Me and hb](https://github.com/pt-ship-nominations)
-              </td>
-       </table>
+<td>
+<details align="center">
+<summary>$\color{#29d9be}{\textsf{ㅤNomination}}$</summary>
+<a href="https://github.com/pt-friendships">Pt-Friendships</a>ㅤㅤ<a href="https://github.com/pt-ship-nominations">pt-ship-nominations</a>
+<br>
+     
+  </details>
 
 
 
