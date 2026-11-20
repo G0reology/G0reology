@@ -55,7 +55,7 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
   <tr>
     <!-- Left Column: Large Image Block -->
     <td rowspan="4" width="60%" valign="top">
-      [Atabook](https://organz.atabook.org/) 
+      [Atabook](https://organz.atabook.org/)
     
   
   </tr>
