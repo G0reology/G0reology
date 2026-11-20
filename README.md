@@ -84,7 +84,7 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
   </a>
 </p>
 <details>
-<summary>$${\color{#f7cf9c} "Read."}$$ᐟ</summary>
+<summary>$${\color{#99d6c2} "Read."}$$ᐟ</summary>
 
 
 
@@ -99,12 +99,3 @@ tankyeww
 
 
 
-  
-<summary>$${\color{#f7cf9c} "Nominations."}$$ᐟ</summary>
-
- Awards : [My trio](https://github.com/pt-friendships) 
-          [Me and hb](https://github.com/pt-ship-nominations)
-
-
-
-</details>
