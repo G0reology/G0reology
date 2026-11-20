@@ -40,13 +40,6 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
    
       
   </tr>
-</table>
-<img align="left" width="5%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled598_20261110215948.png">
-       <table>
-              <td>
-<a href="https://fluffle.cc/archiver">BYI</a>ㅤㅤ<a href="https://kaliningrad-oblast.atabook.org">ATA</a>ㅤㅤ<a href="https://pronouns.cc/@ARC">PRNS</a>ㅤㅤ<a href="https://r7.whiteboardfox.com/gallery/@KALININGRAD_OBLAST">GALLERY</a>
-              </td>
-       </table>
 
 
   <p align="right">
