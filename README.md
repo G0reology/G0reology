@@ -14,11 +14,11 @@
 
 
 <p align="left">
-$${\color{#f7cf9c} "If all you do is look down on people"}$$
-$${\color{#f7cf9c} "you will never see your own weakness."}$$
-
-
-
+$$\color{#f7cf9c} \text{˚ If all you do is look down on people°}$$
+$$\color{#f7cf9c} \text{˚you will never see your own weakness°}$$
+$$\color{#f7cf9c} \text{˚ because man fears what breaks him°}$$
+$$\color{#f7cf9c} \text{˚ and tends to look for ways°}$$
+$$\color{#f7cf9c} \text{˚ to break others°}$$
 
 
 
