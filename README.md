@@ -8,7 +8,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5013&pause=998&color=F7DAAA&center=true&width=435&lines=%22Oh...+i+think;you're+holding;the+heart+of+mine;Squeeze+it+apart;thats+fine%3F%22" alt="Typing SVG" /></a>
 
-<img src="https://github.com/user-attachments/assets/12b04265-d87d-4e11-82bb-5f466703a36d" alt="baku" width="290" height="auto" align="left" />
+<img src="https://github.com/user-attachments/assets/f7dc3627-6ae5-46b2-a5fb-3b158cfe799a" alt="baku" width="290" height="auto" align="left" />
+
+
 
 
 <p align="left">
