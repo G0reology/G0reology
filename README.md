@@ -57,7 +57,6 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
 <details align="center">
 <summary>$\color{#99d6c2}}{\textsf{ㅤNomination}}$</summary>
 <a href="https://github.com/pt-friendships">Pt-Friendships</a>ㅤㅤ<a href="https://github.com/pt-ship-nominations">pt-ship-nominations</a>
-<br>
      
   </details>
 </td>
