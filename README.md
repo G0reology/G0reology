@@ -50,6 +50,21 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
        </table>
 
 
+    
+  </tr>
+
+
+  <p align="right">
+  <table>
+              <td>
+              <summary>$${\color{#f7cf9c} "Nominations."}$$ᐟ</summary>
+
+ Awards : [My trio](https://github.com/pt-friendships) 
+          [Me and hb](https://github.com/pt-ship-nominations)
+              </td>
+       </table>
+
+
 
 
 <p align="center">
