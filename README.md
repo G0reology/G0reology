@@ -61,8 +61,10 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
      
   </details>
 </td>
-       </table>
-
+</table>
+</div>
+<br>
+</p>
 
 
 
