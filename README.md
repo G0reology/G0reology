@@ -1,8 +1,6 @@
 
 <p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=vessels&left_color=%23d96d6d&right_color=%23ffb3b3&logo=react&radius=0" alt="visitor badge"/>
-
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=Vessels&left_color=%2399d6c2&right_color=%23dfc3cf&radius=0" alt="visitor badge"/>
 
 
 <div align="center">
