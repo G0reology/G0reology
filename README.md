@@ -65,20 +65,26 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
 <br>
 </p>
 
-
-</td>
-</table>
-<table align="left">
-<td>
-<details align="center">
-<summary>$\color{#99d6c2}}{\textsf{ㅤNomination}}$</summary>
-<a href="https://github.com/pt-friendships">Pt-Friendships</a>ㅤㅤ<a href="https://github.com/pt-ship-nominations">pt-ship-nominations</a></a>
-  </details>
-</td>
-</table>
+<div>
+  <table>
+    <tr>
+      <td>
+        <details align="center">
+          <summary style="color: #99d6c2;">
+            <span style="font-family: sans-serif;">ㅤNomination</span>
+          </summary>
+          <a href="https://github.com">Pt Friendships</a>
+          ㅤㅤ
+          <a href="https://github.com">pt ship nominations</a>
+        </details>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <p></p>
 </div>
-<br>
-</p>
+
+
 
 
 
