@@ -63,7 +63,8 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
             <span style="font-family: sans-serif;">ㅤNomination</span>
           </summary>
           <a href="https://github.com">Pt Friendships</a>
-          ㅤㅤ
+          <a href="https://github.com/pt-everypony">Pt everypony</a>
+          ㅤ
           <a href="https://github.com">pt ship nominations</a>
         </details>
       </td>
