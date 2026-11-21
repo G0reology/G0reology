@@ -64,7 +64,6 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
           </summary>
           <a href="https://github.com/pt-friendships">Pt Friendships</a>
           <a href="https://github.com/pt-everypony">Pt everypony</a>
-          ㅤ
           <a href="https://github.com/pt-ship-nominations">pt ship nominations</a>
         </details>
       </td>
@@ -95,7 +94,7 @@ if you have issues relating to this previous issue look for shino/crucified orga
 
 if you do have any issues w me tho, contact me through my ata [links on the yuji stamps underneath my name/info or just check the links piled up in the corner] or discord if its very serious. : goreb0yz.
 tankyeww
-
+[this is no longer an issue yay]
 <details>
 
 
