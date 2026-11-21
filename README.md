@@ -74,6 +74,26 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
 </div>
 
 
+<div>
+  <table>
+    <tr>
+      <td>
+        <details align="center">
+          <summary style="color: #99d6c2;">
+            <span style="font-family: sans-serif;">ㅤLovemail</span>
+          </summary>
+          val, feng, reki, hayden, axel, riku, alex, xinli, ares, kuro
+          Church,himeno, eiko, pearl [ask to be added/removed]
+        </details>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <p></p>
+</div>
+
+
+
 
 
 
