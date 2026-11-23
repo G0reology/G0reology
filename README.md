@@ -65,6 +65,8 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
           <a href="https://github.com/pt-friendships">Pt Friendships</a>
           <a href="https://github.com/pt-everypony">Pt everypony</a>
           <a href="https://github.com/pt-ship-nominations">pt ship nominations</a>
+          <a href="https://github.com/knox-event">knox event</a>
+          <a href="https://github.com/THE-TEMPIST">THE TEMPIST</a>
         </details>
       </td>
     </tr>
