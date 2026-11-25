@@ -90,6 +90,23 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
 </div>
 
 
+<div>
+  <table>
+    <tr>
+      <td>
+        <details align="center">
+          <summary style="color: #99d6c2;">
+            <span style="font-family: sans-serif;">ㅤArt</span>
+          </summary>
+          Art by bananacried on x ^_^
+        </details>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <p></p>
+</div>
+
 
 
 
