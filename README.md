@@ -105,26 +105,7 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypddj4cxdomrhjyvzl3meny2se&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9e9e9e&bar_color_cover=false">
-  </a>
-</p>
-<details>
-<summary>$${\color{#99d6c2} "Read."}$$ᐟ</summary>
-
-
-
-concerning allegations/claims of me[ when my github was organcest] copying peoples ponies, it has been cleared up.
-the person responsible for every claim is crucifiedorgan who i was friends with and unfortunately we had similar styles of shading
-if you have issues relating to this previous issue look for shino/crucified organ. do not involve me or my friends. ^_^
-
-if you do have any issues w me tho, contact me through my ata or discord if its very serious. : goreb0yz.
-tankyeww
-[this is no longer an issue yay]
-<details>
- </a>
-</p>
-
-
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypddj4cxdomrhjyvzl3meny2se&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9e9e9e&bar_color_cover=false"
 
 
 
