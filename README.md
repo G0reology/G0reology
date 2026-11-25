@@ -1,5 +1,6 @@
 
-<img src="https://github.com/user-attachments/assets/652c52b8-5e87-4e2c-9f98-081e451e6dab" alt="baku" width="1000" height="auto" align="left" />
+<img src="https://github.com/user-attachments/assets/c8185dea-0f58-440d-b05d-6c6179cb5937" alt="baku" width="1000" height="auto" align="left" />
+
 
 
 <p align="center">
