@@ -121,6 +121,8 @@ if you do have any issues w me tho, contact me through my ata or discord if its 
 tankyeww
 [this is no longer an issue yay]
 <details>
+ </a>
+</p>
 
 
 
