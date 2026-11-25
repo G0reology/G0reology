@@ -4,8 +4,7 @@
 
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=Vessels&left_color=%2399d6c2&right_color=%23dfc3cf&radius=0" alt="visitor badge"/>
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=Divine%20dogs&left_color=%238cecf3&right_color=%23ac3956&radius=0" alt="visitor badge"/>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5013&pause=998&color=dfc3cf&center=true&width=435&lines=%22Oh...+i+think;you're+holding;the+heart+of+mine;Squeeze+it+apart;thats+fine%3F%22" alt="Typing SVG" /></a>
