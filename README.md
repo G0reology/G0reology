@@ -41,6 +41,11 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
     
   
 
+<img src="https://github.com/user-attachments/assets/91b372b4-382c-47eb-9f51-14f9df85562b" alt="baku" width="250" height="auto" align="center" />
+
+
+
+
    
       
   </tr>
