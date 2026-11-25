@@ -1,4 +1,7 @@
 
+<img src="https://github.com/user-attachments/assets/652c52b8-5e87-4e2c-9f98-081e451e6dab" alt="baku" width="1000" height="auto" align="left" />
+
+
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=Vessels&left_color=%2399d6c2&right_color=%23dfc3cf&radius=0" alt="visitor badge"/>
 
