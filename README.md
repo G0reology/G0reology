@@ -124,3 +124,7 @@ tankyeww
 
 
 
+
+
+<img src="https://github.com/user-attachments/assets/c8185dea-0f58-440d-b05d-6c6179cb5937" alt="baku" width="1000" height="auto" align="left" />
+
