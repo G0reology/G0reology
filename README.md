@@ -90,22 +90,8 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
 </div>
 
 
-<div>
-  <table>
-    <tr>
-      <td>
-        <details align="center">
-          <summary style="color: #99d6c2;">
-            <span style="font-family: sans-serif;">ㅤArt</span>
-          </summary>
-          Art by bananacried on x ^_^
-        </details>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <p></p>
-</div>
+
+
 
 
 
@@ -152,3 +138,21 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c8185dea-0f58-440d-b05d-6c6179cb5937" alt="baku" width="1000" height="auto" align="left" />
 
+
+
+<div>
+  <table>
+    <tr>
+      <td>
+        <details align="center">
+          <summary style="color: #99d6c2;">
+            <span style="font-family: sans-serif;">ㅤcredits</span>
+          </summary>
+          Art by bananacried on x ^_^
+        </details>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <p></p>
+  </div>
