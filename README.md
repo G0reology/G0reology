@@ -7,7 +7,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=Divine%20dogs&left_color=%238cecf3&right_color=%23ac3956&radius=0" alt="visitor badge"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5013&pause=998&color=dfc3cf&center=true&width=435&lines=%22Oh...+i+think;you're+holding;the+heart+of+mine;Squeeze+it+apart;thats+fine%3F%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5013&pause=998&color=23ac3956&center=true&width=435&lines=%22Oh...+i+think;you're+holding;the+heart+of+mine;Squeeze+it+apart;thats+fine%3F%22" alt="Typing SVG" /></a>
 
 <img src="https://github.com/user-attachments/assets/ede1cc27-73a8-4c39-8f55-1f2068b1645b" alt="baku" width="290" height="auto" align="left" />
 
@@ -16,10 +16,10 @@
 
 <p align="left">
 $$\color{#99d6c2} \text{˚ If all you do is look down on people°}$$
-$$\color{#dfc3cf} \text{˚you will never see your own weakness°}$$
+$$\color{#23ac3956} \text{˚you will never see your own weakness°}$$
 $$\color{#99d6c2} \text{˚ because man fears what breaks him°}$$
-$$\color{#dfc3cf} \text{˚ and tends to look for ways°}$$
-$$\color{#99d6c2} \text{˚ to break others°}$$
+$$\color{#23ac3956} \text{˚ and tends to look for ways°}$$
+$$\color{#23ac3956} \text{˚ to break others°}$$
 
 
 
