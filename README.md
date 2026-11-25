@@ -86,7 +86,7 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
 
 <div align="center">
   
-| cat | test |
+| yuji | itadori |
 | --- | --- |
 
 </div>
