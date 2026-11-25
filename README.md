@@ -7,7 +7,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=G0reology.visitor-badge&left_text=Divine%20dogs&left_color=%238cecf3&right_color=%23ac3956&radius=0" alt="visitor badge"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5013&pause=998&color=922042&center=true&width=435&lines=%22Oh...+i+think;you're+holding;the+heart+of+mine;Squeeze+it+apart;thats+fine%3F%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bricolage+Grotesque&pause=1000&color=67F7D457&width=435&lines=who+will+save+you;from+yourself%3F++%28%E2%97%9E%E2%80%B8%E2%97%9F+%29" alt="Typing SVG" /></a>
 
 <img src="https://github.com/user-attachments/assets/ede1cc27-73a8-4c39-8f55-1f2068b1645b" alt="baku" width="290" height="auto" align="left" />
 
