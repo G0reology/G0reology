@@ -10,7 +10,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5013&pause=998&color=dfc3cf&center=true&width=435&lines=%22Oh...+i+think;you're+holding;the+heart+of+mine;Squeeze+it+apart;thats+fine%3F%22" alt="Typing SVG" /></a>
 
-<img src="https://github.com/user-attachments/assets/f7dc3627-6ae5-46b2-a5fb-3b158cfe799a" alt="baku" width="290" height="auto" align="left" />
+<img src="https://github.com/user-attachments/assets/ede1cc27-73a8-4c39-8f55-1f2068b1645b" alt="baku" width="290" height="auto" align="left" />
 
 
 
@@ -37,7 +37,7 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
   <tr>
     <!-- Left Column: Large Image Block -->
     <td rowspan="4" width="60%" valign="top">
-      <img src="https://github.com/user-attachments/assets/9e83ace5-c7ac-43f5-9b59-8aecab4fdb26" width="300">
+      <img src="https://github.com/user-attachments/assets/f04513c5-103b-442d-94f6-f0fc682d94b4" width="300">
   
    
       
