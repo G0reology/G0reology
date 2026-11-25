@@ -82,28 +82,14 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
 </div>
 
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
-**Left Column**
 
-```python
-print("Hello, world!")
-```
+<div align="center">
+  
+| cat | test |
+| --- | --- |
 
-    </td>
-    <td width="50%" valign="top">
-
-**Right Column**
-
-- Item 1
-- Item 2
-
-    </td>
-  </tr>
-</table>
-
+</div>
 
 
 
