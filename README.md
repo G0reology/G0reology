@@ -84,8 +84,8 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
           <summary style="color: #99d6c2;">
             <span style="font-family: sans-serif;">ㅤLovemail</span>
           </summary>
-          val, feng, reki, hayden, axel, riku, alex, xinli, ares, kuro
-          Church,himeno, eiko, pearl, natz alex(fax) [ask to be added/removed]
+          val, feng, reki, hayden, axel, riku, alex, xinli, ares, kuro, 
+          fax,Church,himeno, eiko, pearl, natz  [ask to be added/removed]
         </details>
       </td>
     </tr>
