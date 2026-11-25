@@ -15,11 +15,10 @@
 
 
 <p align="left">
-$$\color{#99d6c2} \text{˚ If all you do is look down on people°}$$
-$$\color{#922042} \text{˚you will never see your own weakness°}$$
-$$\color{#99d6c2} \text{˚ because man fears what breaks him°}$$
-$$\color{#922042} \text{˚ and tends to look for ways°}$$
-$$\color{#922042} \text{˚ to break others°}$$
+$$\color{#99d6c2} \text{˚ in a room full of people°}$$
+$$\color{#922042} \text{˚ i look around°}$$
+$$\color{#99d6c2} \text{˚ for you °}$$
+$$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ°}$$
 
 
 
