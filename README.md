@@ -38,17 +38,14 @@ $$\color{#99d6c2} \text{˚ to break others°}$$
     <!-- Left Column: Large Image Block -->
     <td rowspan="4" width="60%" valign="top">
       <img src="https://github.com/user-attachments/assets/9e83ace5-c7ac-43f5-9b59-8aecab4fdb26" width="300">
-    
   
-
-<img src="https://github.com/user-attachments/assets/91b372b4-382c-47eb-9f51-14f9df85562b" alt="baku" width="250" height="auto" align="center" />
-
-
-
-
    
       
   </tr>
+  
+<img src="https://github.com/user-attachments/assets/91b372b4-382c-47eb-9f51-14f9df85562b" alt="baku" width="250" height="auto" align="center" />
+
+
 
 
   <p align="left">
