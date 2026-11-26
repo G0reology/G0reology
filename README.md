@@ -46,9 +46,12 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
 
 
 
+
   <p align="left">
   <table>
               <td>
+                <p align="center">
+  <a href="https://pronouns.cc/@Goreboy"><img src="https://github.com/user-attachments/assets/98aab651-b52a-4534-8d4a-d60c193b03a0" height="80"/></a>
 <a href="https://organz.atabook.org/">ATA</a>ㅤㅤ<a href="https://pronouns.cc/@Goreboy">PRONOUNS</a>ㅤㅤ<a href="https://goreyhugs.straw.page">STRAW</a>
               </td>
        </table>
