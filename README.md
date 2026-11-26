@@ -55,7 +55,23 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
               </td>
        </table>
 
-
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://pronouns.cc/@Goreboy">
+          <img src="https://github.com/user-attachments/assets/98aab651-b52a-4534-8d4a-d60c193b03a0" height="80" alt="Pronouns" />
+        </a>
+        <a href="https://goreyhugs.straw.page">
+          <img src="https://github.com/user-attachments/assets/913b556a-7a96-43db-a91c-5ccfaeb7adf3" height="80" alt="Strawpage" />
+        </a>
+        <a href="https://organz.atabook.org/">
+          <img src="https://github.com" height="80" alt="Atabook" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
