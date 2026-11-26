@@ -49,7 +49,7 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
 
 
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
       <td align="center">
