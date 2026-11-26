@@ -117,7 +117,7 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
 
 
 
-
+<img src="https://github.com/user-attachments/assets/d3fc51ba-a3b7-4d77-9063-5749cdbffdec" alt="baku" width="290" height="auto" align="center" />
 
 
 <p align="center">
