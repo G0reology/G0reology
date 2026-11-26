@@ -66,7 +66,7 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
           <img src="https://github.com/user-attachments/assets/913b556a-7a96-43db-a91c-5ccfaeb7adf3" height="80" alt="Strawpage" />
         </a>
         <a href="https://organz.atabook.org/">
-          <img src="https://github.com" height="80" alt="Atabook" />
+          <img src="https://github.com/user-attachments/assets/e35cb271-f9a2-47eb-adc1-b96e364b43ea" height="80" alt="Atabook" />
         </a>
       </td>
     </tr>
