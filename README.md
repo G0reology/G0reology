@@ -74,6 +74,8 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
   <p></p>
 </div>
 
+<img src="https://github.com/user-attachments/assets/91b372b4-382c-47eb-9f51-14f9df85562b" alt="baku" width="250" height="auto" align="center" />
+
 
 <div align="center">
   
