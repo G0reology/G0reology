@@ -45,10 +45,11 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
 
 
 
+<img width="664" height="376" alt="ata__fliter--red-sunset-with-purple__channel--red__mode--normal-removebg-preview" src="https://github.com/user-attachments/assets/7cc22966-0227-4bb4-8be7-76e1a3a4fc17" />
 
 
 
-<p align="left"> <table> <td> <p align="center"> <a href="https://pronouns.cc/@Goreboy"><img src="https://github.com/user-attachments/assets/e1217520-c3ca-4adc-98cc-2cb1e29b689d" height="300"/></a></td> </table>
+<p align="left"> <table> <td> <p align="center"> <a href="https://pronouns.cc/@Goreboy"><img src="https://github.com/user-attachments/assets/7cc22966-0227-4bb4-8be7-76e1a3a4fc17" height="300"/></a></td> </table>
 
 
 
