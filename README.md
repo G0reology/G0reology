@@ -74,8 +74,6 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
   <p></p>
 </div>
 
-<img width="665" height="375" alt="straw__fliter--red-sunset-with-purple__channel--red__mode--normal-removebg-preview" src="https://github.com/user-attachments/assets/0d4fb908-c023-460d-946d-3cf158dd090e" />
-
 
 <div align="center">
   
