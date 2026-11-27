@@ -49,7 +49,7 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
 
 
 
-<p align="left"> <table> <td> <p align="center"> <a href="https://organz.atabook.org/"><img src="https://github.com/user-attachments/assets/7cc22966-0227-4bb4-8be7-76e1a3a4fc17" height="100"/></a></td> </table>
+<p align="left"> <table> <td> <p align="center"> <a href="https://organz.atabook.org/"><img src="https://github.com/user-attachments/assets/7cc22966-0227-4bb4-8be7-76e1a3a4fc17" height="250"/></a></td> </table>
 
 
 
