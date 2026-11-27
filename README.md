@@ -74,13 +74,11 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
   <p></p>
 </div>
 
-<img width="666" height="375" alt="pro__fliter--red-sunset-with-purple__channel--red__mode--normal-removebg-preview" src="https://github.com/user-attachments/assets/7171f8a2-8845-47d7-b8ee-74b1b01e5a2b" />
-
 
 
 <div align="center">
   
-|  <p align="center"> <a href="https://organz.atabook.org/"><img src="https://github.com/user-attachments/assets/7171f8a2-8845-47d7-b8ee-74b1b01e5a2b" height="250"/></a> | gumi |
+|  <p align="center"> <a href=https://en.pronouns.page/@hazeshift"><img src="https://github.com/user-attachments/assets/7171f8a2-8845-47d7-b8ee-74b1b01e5a2b" height="250"/></a> | gumi |
 | --- | --- |
 
 </div>
