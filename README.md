@@ -48,7 +48,7 @@ $$\color{#922042} \text{˚ ♫彡｡.:・¤ﾟ♫彡｡.:・¤ﾟ♫彡｡.:・�
 
 
 
-<p align="left"> <table> <td> <p align="center"> <a href="https://pronouns.cc/@Goreboy"><img src="https://github.com/user-attachments/assets/e1217520-c3ca-4adc-98cc-2cb1e29b689d" height="80"/></a></td> </table>
+<p align="left"> <table> <td> <p align="center"> <a href="https://pronouns.cc/@Goreboy"><img src="https://github.com/user-attachments/assets/e1217520-c3ca-4adc-98cc-2cb1e29b689d" height="100"/></a></td> </table>
 
 
 
